@@ -2,6 +2,7 @@
 # modules this project originally used were removed in 1.0.
 python-dotenv>=1.2
 streamlit>=1.51
+requests>=2.31
 langchain-core>=1.5
 langchain-community>=0.4
 langchain-text-splitters>=1.1

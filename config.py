@@ -17,13 +17,21 @@ load_dotenv()
 PROJECT_ROOT = Path(__file__).resolve().parent
 
 CHUNK_SIZE = 1000
-GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 VECTORSTORE_DIR = PROJECT_ROOT / "resources/vectorstore"
 COLLECTION_NAME = "real_estate"
 RETRIEVE_K = 6
 # Rough character budget for retrieved context sent to the model.
 MAX_CONTEXT_CHARS = 32000
+TEMPERATURE = 0.2
+MAX_ANSWER_TOKENS = 1500
+
+REQUEST_TIMEOUT = 30
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/122.0 Safari/537.36"
+)
 
 _llm = None
 _vector_store = None
@@ -32,7 +40,9 @@ _vector_store = None
 def get_llm():
     global _llm
     if _llm is None:
-        _llm = ChatGroq(model=GROQ_MODEL, temperature=0.9, max_tokens=500)
+        # Low temperature: this is factual retrieval, not creative writing.
+        # 500 tokens truncated multi-point answers mid-sentence.
+        _llm = ChatGroq(model=GROQ_MODEL, temperature=TEMPERATURE, max_tokens=MAX_ANSWER_TOKENS)
     return _llm
 
 

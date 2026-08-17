@@ -3,7 +3,7 @@
 A RAG-based research assistant for real estate news. Paste in article URLs, ask
 questions in plain English, and get answers back with the source articles cited.
 
-Built on LangChain with ChromaDB for retrieval and Llama 3.3 70B via Groq for
+Built on LangChain with ChromaDB for retrieval and GPT-OSS 120B via Groq for
 generation. The domain is real estate, but nothing in the pipeline is
 domain-specific, so it works on any set of article URLs.
 
@@ -43,11 +43,11 @@ Create a `.env` file in the project root:
 
 ```
 GROQ_API_KEY=your_groq_api_key_here
-GROQ_MODEL=llama-3.3-70b-versatile
+GROQ_MODEL=openai/gpt-oss-120b
 ```
 
 Get a free key at [console.groq.com](https://console.groq.com). `GROQ_MODEL` is
-optional and falls back to `llama-3.3-70b-versatile`.
+optional and falls back to `openai/gpt-oss-120b`.
 
 ## Run
 

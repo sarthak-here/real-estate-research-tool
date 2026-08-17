@@ -12,9 +12,9 @@ domain-specific, so it works on any set of article URLs.
 ## How it works
 
 ```
-URLs → UnstructuredURLLoader → RecursiveCharacterTextSplitter (1000 char chunks)
+URLs → requests + unstructured partition_html → RecursiveCharacterTextSplitter (1000 char chunks)
      → HuggingFace all-MiniLM-L6-v2 embeddings → ChromaDB (persisted)
-     → RetrievalQAWithSourcesChain + Llama 3.3 70B → answer + sources
+     → LCEL retrieval chain + GPT-OSS 120B → answer + sources
 ```
 
 A few details worth calling out:

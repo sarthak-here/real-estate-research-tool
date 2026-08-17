@@ -7,10 +7,6 @@ Built on LangChain with ChromaDB for retrieval and GPT-OSS 120B via Groq for
 generation. The domain is real estate, but nothing in the pipeline is
 domain-specific, so it works on any set of article URLs.
 
-![Architecture](resources/rag-architecture.png)
-
-The running app:
-
 ![Real Estate Research Tool](resources/screenshot.png)
 
 ## How it works

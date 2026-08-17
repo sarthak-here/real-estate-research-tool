@@ -1,0 +1,14 @@
+# Targets langchain 1.x. The legacy langchain.chains / langchain.prompts
+# modules this project originally used were removed in 1.0.
+python-dotenv>=1.2
+streamlit>=1.51
+langchain-core>=1.5
+langchain-community>=0.4
+langchain-text-splitters>=1.1
+langchain-chroma>=1.1
+langchain-groq>=1.1
+langchain-huggingface>=1.2
+sentence-transformers>=5.7
+unstructured>=0.25
+tiktoken>=0.12
+protobuf

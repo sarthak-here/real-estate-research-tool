@@ -1,0 +1,601 @@
+patient_id,symptoms,diagnosis,treatment,doctor_notes
+PT-1000,"Night-time cough, sour taste in mouth",Gastroesophageal Reflux,"Antacids, elevation of bed head",Review in eight weeks. Reviewed by Dr. Mehta.
+PT-1001,"Chest pain, shortness of breath",Angina,"GTN spray, beta-blocker, cardiac rehabilitation",Recommend further cardiovascular evaluation. Reviewed by Dr. Chawla.
+PT-1002,"Itchy palate, repeated sneezing outdoors",Allergic Rhinitis,"Antihistamine, nasal steroid spray",Nasal spray technique demonstrated. Reviewed by Dr. Mehta.
+PT-1003,"Cramping, alternating constipation and diarrhea",Irritable Bowel Syndrome,"Low FODMAP diet, fibre supplementation",IBS symptoms; recommend low FODMAP diet. Reviewed by Dr. Iyer.
+PT-1004,"Shortness of breath, audible wheeze",Asthma,"Bronchodilator therapy, asthma action plan",Asthma control questionnaire completed. Reviewed by Dr. Fernandes.
+PT-1005,Discomfort worse lying flat,Gastroesophageal Reflux,"Antacids, elevation of bed head",No alarm features; endoscopy not indicated. Reviewed by Dr. Nair.
+PT-1006,"Sneezing, runny nose, itchy eyes",Allergic Rhinitis,"Loratadine, allergen avoidance",Consider allergy testing if poorly controlled. Reviewed by Dr. Rao.
+PT-1007,"Cough with pleuritic pain, rigors",Pneumonia,"Antibiotics, rest, fluids",Chest X-ray confirms consolidation. Reviewed by Dr. Fernandes.
+PT-1008,"Dry scaly patches, intense itching",Eczema,"Topical corticosteroids, moisturizers",No signs of secondary bacterial infection. Reviewed by Dr. Chawla.
+PT-1009,Recurrent cough worse in cold air,Asthma,"Inhaled corticosteroid, salbutamol reliever",Peak flow reduced; inhaler technique reviewed. Reviewed by Dr. Chawla.
+PT-1010,"Painful swollen knuckles, fatigue",Rheumatoid Arthritis,"Methotrexate, folic acid, rheumatology follow-up",Referred to rheumatology for DMARD initiation. Reviewed by Dr. Mehta.
+PT-1011,"Excessive thirst, blurred vision, weight loss",Diabetes Mellitus,"Metformin, dietary counselling, exercise plan",Referred to diabetes education programme. Reviewed by Dr. Banerjee.
+PT-1012,"Aching hips after walking, reduced range",Osteoarthritis,"Analgesia, weight management, physiotherapy",Consider orthopaedic referral if function declines. Reviewed by Dr. Chawla.
+PT-1013,"Hopelessness, social withdrawal",Depression,"SSRI, psychological therapy",PHQ-9 score in moderate range. Reviewed by Dr. Mehta.
+PT-1014,"Persistent cough, weight loss, night sweats",Tuberculosis,"Directly observed therapy, contact tracing",Notified to public health; contacts to be screened. Reviewed by Dr. Iyer.
+PT-1015,Often asymptomatic; found on routine check,Hypertension,"Diuretic therapy, home BP monitoring",Cardiovascular risk score calculated. Reviewed by Dr. Iyer.
+PT-1016,"Increased appetite, slow-healing wounds",Diabetes Mellitus,"Metformin, dietary counselling, exercise plan",Blood sugar levels elevated; initiate monitoring. Reviewed by Dr. Mehta.
+PT-1017,"Back pain worsened by sitting, leg weakness",Herniated Disc,"Physical therapy, pain management",Refer to spinal surgery if no improvement in six weeks. Reviewed by Dr. Banerjee.
+PT-1018,"Wheezing, breathlessness, chest tightness",Asthma,"Preventer inhaler, spacer, technique review",Asthma control questionnaire completed. Reviewed by Dr. Banerjee.
+PT-1019,"Persistent sadness, low energy, poor appetite",Depression,"Structured exercise, counselling, follow-up",Risk assessed; no immediate safety concerns. Reviewed by Dr. Fernandes.
+PT-1020,"Shortness of breath, audible wheeze",Asthma,"Inhaled corticosteroid, salbutamol reliever",Stepped up preventer therapy. Reviewed by Dr. Fernandes.
+PT-1021,"Headache, dizziness, blurred vision",Hypertension,"Amlodipine, lifestyle modification",Ambulatory monitoring arranged. Reviewed by Dr. Fernandes.
+PT-1022,"Recurrent itchy rash, worse at night",Eczema,"Antihistamines, barrier cream, trigger avoidance",No signs of secondary bacterial infection. Reviewed by Dr. Banerjee.
+PT-1023,"Night sweats, fatigue, low-grade fever",Tuberculosis,Standard four-drug anti-TB regimen,Chest X-ray shows upper lobe changes. Reviewed by Dr. Mehta.
+PT-1024,"Sore throat, congestion, muscle pain",Influenza,"Oseltamivir, bed rest, hydration",Advised isolation for five days. Reviewed by Dr. Fernandes.
+PT-1025,"Dry skin, hair thinning, low mood",Hypothyroidism,Levothyroxine replacement,Symptoms improving on current dose. Reviewed by Dr. Fernandes.
+PT-1026,"High temperature, body aches, chills",Influenza,"Rest, fluids, antiviral medication",Patient shows signs of seasonal flu. Reviewed by Dr. Rao.
+PT-1027,"Bloating relieved by defecation, urgency",Irritable Bowel Syndrome,"Low FODMAP diet, fibre supplementation",Symptoms fluctuate with stress; reassurance given. Reviewed by Dr. Banerjee.
+PT-1028,"Hopelessness, social withdrawal",Depression,"Structured exercise, counselling, follow-up",Review arranged in two weeks. Reviewed by Dr. Chawla.
+PT-1029,"Difficulty concentrating, early waking",Depression,"Talking therapy referral, regular review",Review arranged in two weeks. Reviewed by Dr. Mehta.
+PT-1030,"Sneezing, runny nose, itchy eyes",Allergic Rhinitis,"Intranasal corticosteroid, saline rinse",Consider allergy testing if poorly controlled. Reviewed by Dr. Rao.
+PT-1031,Tiredness despite adequate sleep,Hypothyroidism,Levothyroxine replacement,TSH elevated with low free T4. Reviewed by Dr. Chawla.
+PT-1032,"Dry scaly patches, intense itching",Eczema,"Antihistamines, barrier cream, trigger avoidance",Flare likely triggered by detergent change. Reviewed by Dr. Chawla.
+PT-1033,"Weakness, cold hands, brittle nails",Anemia,"Iron supplementation, dietary advice",Dietary iron intake discussed. Reviewed by Dr. Chawla.
+PT-1034,"Cough with pleuritic pain, rigors",Pneumonia,"Oral antibiotics, oxygen if saturations fall",Safety netting advice given. Reviewed by Dr. Banerjee.
+PT-1035,"Night sweats, fatigue, low-grade fever",Tuberculosis,"Directly observed therapy, contact tracing",Chest X-ray shows upper lobe changes. Reviewed by Dr. Kapoor.
+PT-1036,"Throbbing one-sided head pain, visual aura",Migraine,"Prophylactic propranolol, hydration",Headache diary advised to identify triggers. Reviewed by Dr. Chawla.
+PT-1037,"Exertional chest discomfort, jaw pain",Angina,"Nitroglycerin, aspirin, lifestyle changes",Stable angina; medical management started. Reviewed by Dr. Kapoor.
+PT-1038,"Sudden fever, dry cough, exhaustion",Influenza,"Symptomatic care, paracetamol, fluids",Symptoms consistent with influenza A. Reviewed by Dr. Kapoor.
+PT-1039,"Cramping, alternating constipation and diarrhea",Irritable Bowel Syndrome,"Low FODMAP diet, fibre supplementation",IBS symptoms; recommend low FODMAP diet. Reviewed by Dr. Chawla.
+PT-1040,"Skin rash, itching, redness",Eczema,"Emollients, short steroid course",Patient has recurring skin rash; allergy test suggested. Reviewed by Dr. Banerjee.
+PT-1041,"Cough with pleuritic pain, rigors",Pneumonia,"Oral antibiotics, oxygen if saturations fall",CURB-65 score low; managed in community. Reviewed by Dr. Iyer.
+PT-1042,"Morning stiffness lasting over an hour, swollen joints",Rheumatoid Arthritis,"Anti-inflammatory drugs, physiotherapy",Rheumatoid factor positive. Reviewed by Dr. Nair.
+PT-1043,"Fever, cough, sore throat",Influenza,"Symptomatic care, paracetamol, fluids",Flu swab positive; monitor for secondary infection. Reviewed by Dr. Nair.
+PT-1044,"High temperature, body aches, chills",Influenza,"Symptomatic care, paracetamol, fluids",Patient shows signs of seasonal flu. Reviewed by Dr. Banerjee.
+PT-1045,"Night-time cough, wheeze after exercise",Asthma,"Preventer inhaler, spacer, technique review",Stepped up preventer therapy. Reviewed by Dr. Fernandes.
+PT-1046,"Night sweats, fatigue, low-grade fever",Tuberculosis,Standard four-drug anti-TB regimen,Chest X-ray shows upper lobe changes. Reviewed by Dr. Mehta.
+PT-1047,"Tiredness, dizziness on standing",Anemia,"Ferrous sulphate, vitamin C with doses",Repeat full blood count in three months. Reviewed by Dr. Kapoor.
+PT-1048,"Night sweats, fatigue, low-grade fever",Tuberculosis,Antibiotics for 6-9 months,Notified to public health; contacts to be screened. Reviewed by Dr. Rao.
+PT-1049,Often asymptomatic; found on routine check,Hypertension,"Amlodipine, lifestyle modification",Advised reduced salt intake and regular exercise. Reviewed by Dr. Rao.
+PT-1050,"Knee pain on stairs, crepitus",Osteoarthritis,"Paracetamol, topical NSAIDs, exercise",X-ray shows joint space narrowing. Reviewed by Dr. Fernandes.
+PT-1051,Burning chest pain after meals,Gastroesophageal Reflux,"Omeprazole, weight loss, avoid late meals",Symptoms respond to PPI trial. Reviewed by Dr. Kapoor.
+PT-1052,"Pressure behind the sternum, relieved by rest",Angina,"GTN spray, beta-blocker, cardiac rehabilitation",Recommend further cardiovascular evaluation. Reviewed by Dr. Fernandes.
+PT-1053,"Joint pain, swelling, stiffness",Rheumatoid Arthritis,"Anti-inflammatory drugs, physiotherapy",DAS28 score recorded at baseline. Reviewed by Dr. Nair.
+PT-1054,"Back pain worsened by sitting, leg weakness",Herniated Disc,"Neuropathic pain relief, core strengthening",No red flag neurology; conservative management. Reviewed by Dr. Mehta.
+PT-1055,Pulsating headache lasting several hours,Migraine,"Prophylactic propranolol, hydration",Consider prophylaxis if frequency increases. Reviewed by Dr. Iyer.
+PT-1056,Burning chest pain after meals,Gastroesophageal Reflux,"Antacids, elevation of bed head",No alarm features; endoscopy not indicated. Reviewed by Dr. Iyer.
+PT-1057,"Dizziness, irregular heartbeat, fatigue",Atrial Fibrillation,"Blood thinners, beta-blockers",Irregular heartbeat detected; cardiology referral made. Reviewed by Dr. Rao.
+PT-1058,"Constipation, sluggishness, puffy face",Hypothyroidism,"Levothyroxine titration, annual review",Thyroid antibodies positive. Reviewed by Dr. Banerjee.
+PT-1059,"Exertional chest discomfort, jaw pain",Angina,"GTN spray, beta-blocker, cardiac rehabilitation",Stable angina; medical management started. Reviewed by Dr. Nair.
+PT-1060,"Constipation, sluggishness, puffy face",Hypothyroidism,"Thyroid hormone replacement, periodic TSH checks",Symptoms improving on current dose. Reviewed by Dr. Chawla.
+PT-1061,"Palpitations, lightheadedness, breathlessness",Atrial Fibrillation,"Blood thinners, beta-blockers",Irregular heartbeat detected; cardiology referral made. Reviewed by Dr. Iyer.
+PT-1062,"Cough with pleuritic pain, rigors",Pneumonia,"Oral antibiotics, oxygen if saturations fall",Safety netting advice given. Reviewed by Dr. Iyer.
+PT-1063,Stiff joints easing after movement,Osteoarthritis,"Analgesia, weight management, physiotherapy",Weight reduction discussed. Reviewed by Dr. Rao.
+PT-1064,"High temperature, body aches, chills",Influenza,"Rest, fluids, antiviral medication",Flu swab positive; monitor for secondary infection. Reviewed by Dr. Banerjee.
+PT-1065,"Lower abdominal discomfort, irregular stools",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",Red flag symptoms absent. Reviewed by Dr. Rao.
+PT-1066,"Recurrent itchy rash, worse at night",Eczema,"Antihistamines, barrier cream, trigger avoidance",Flare likely triggered by detergent change. Reviewed by Dr. Iyer.
+PT-1067,"Joint pain, swelling, stiffness",Rheumatoid Arthritis,"Anti-inflammatory drugs, physiotherapy",Rheumatoid factor positive. Reviewed by Dr. Nair.
+PT-1068,"Excessive thirst, blurred vision, weight loss",Diabetes Mellitus,"Insulin therapy, diet control",Blood sugar levels elevated; initiate monitoring. Reviewed by Dr. Mehta.
+PT-1069,"Itchy palate, repeated sneezing outdoors",Allergic Rhinitis,"Loratadine, allergen avoidance",Likely pollen trigger. Reviewed by Dr. Fernandes.
+PT-1070,"Headache, dizziness, blurred vision",Hypertension,"Amlodipine, lifestyle modification",Blood pressure consistently above target. Reviewed by Dr. Chawla.
+PT-1071,Recurrent cough worse in cold air,Asthma,"Inhaled corticosteroid, salbutamol reliever",Stepped up preventer therapy. Reviewed by Dr. Nair.
+PT-1072,"Wheezing, breathlessness, chest tightness",Asthma,"Bronchodilator therapy, asthma action plan",Stepped up preventer therapy. Reviewed by Dr. Fernandes.
+PT-1073,"Dry skin, hair thinning, low mood",Hypothyroidism,Levothyroxine replacement,Symptoms improving on current dose. Reviewed by Dr. Rao.
+PT-1074,"Blocked nose, postnasal drip",Allergic Rhinitis,"Loratadine, allergen avoidance",Symptoms follow a seasonal pattern. Reviewed by Dr. Iyer.
+PT-1075,"Hopelessness, social withdrawal",Depression,"Talking therapy referral, regular review",Review arranged in two weeks. Reviewed by Dr. Mehta.
+PT-1076,"Excessive thirst, blurred vision, weight loss",Diabetes Mellitus,"Metformin, dietary counselling, exercise plan",Referred to diabetes education programme. Reviewed by Dr. Iyer.
+PT-1077,"Cough with pleuritic pain, rigors",Pneumonia,"Oral antibiotics, oxygen if saturations fall",Crackles heard at the right base. Reviewed by Dr. Banerjee.
+PT-1078,Inflamed skin on elbows and knees,Eczema,"Topical corticosteroids, moisturizers",Flare likely triggered by detergent change. Reviewed by Dr. Kapoor.
+PT-1079,"Breathlessness, high fever, green sputum",Pneumonia,"Amoxicillin, hydration, review in 48 hours",Chest X-ray confirms consolidation. Reviewed by Dr. Banerjee.
+PT-1080,"Constipation, sluggishness, puffy face",Hypothyroidism,"Levothyroxine titration, annual review",Started on replacement; recheck in six weeks. Reviewed by Dr. Chawla.
+PT-1081,"Skin rash, itching, redness",Eczema,"Topical corticosteroids, moisturizers",No signs of secondary bacterial infection. Reviewed by Dr. Iyer.
+PT-1082,"Headache, dizziness, blurred vision",Hypertension,"ACE inhibitor, salt reduction",Advised reduced salt intake and regular exercise. Reviewed by Dr. Iyer.
+PT-1083,Discomfort worse lying flat,Gastroesophageal Reflux,"Proton pump inhibitor, dietary advice",Symptoms respond to PPI trial. Reviewed by Dr. Fernandes.
+PT-1084,Lower back pain radiating down one leg,Herniated Disc,"Physical therapy, pain management",No red flag neurology; conservative management. Reviewed by Dr. Banerjee.
+PT-1085,"Abdominal pain, bloating, diarrhea",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",Red flag symptoms absent. Reviewed by Dr. Mehta.
+PT-1086,"Itchy palate, repeated sneezing outdoors",Allergic Rhinitis,"Antihistamine, nasal steroid spray",Likely pollen trigger. Reviewed by Dr. Banerjee.
+PT-1087,"Chest tightness on exertion, breathlessness",Angina,"Antianginal therapy, statin, smoking cessation",Stress test scheduled. Reviewed by Dr. Banerjee.
+PT-1088,"Knee pain on stairs, crepitus",Osteoarthritis,"Analgesia, weight management, physiotherapy",Weight reduction discussed. Reviewed by Dr. Fernandes.
+PT-1089,"Headache, dizziness, blurred vision",Hypertension,"Amlodipine, lifestyle modification",Ambulatory monitoring arranged. Reviewed by Dr. Iyer.
+PT-1090,"High temperature, body aches, chills",Influenza,"Symptomatic care, paracetamol, fluids",Flu swab positive; monitor for secondary infection. Reviewed by Dr. Fernandes.
+PT-1091,"Sneezing, runny nose, itchy eyes",Allergic Rhinitis,"Antihistamine, nasal steroid spray",Nasal spray technique demonstrated. Reviewed by Dr. Chawla.
+PT-1092,"Shooting leg pain, tingling in the foot",Herniated Disc,"Physical therapy, pain management",Straight leg raise positive on the right. Reviewed by Dr. Banerjee.
+PT-1093,Stiff joints easing after movement,Osteoarthritis,"Paracetamol, topical NSAIDs, exercise",Conservative management appropriate. Reviewed by Dr. Chawla.
+PT-1094,"Heartburn, acid taste, regurgitation",Gastroesophageal Reflux,"Antacids, elevation of bed head",Advised to avoid caffeine and spicy food. Reviewed by Dr. Kapoor.
+PT-1095,"Constipation, sluggishness, puffy face",Hypothyroidism,"Levothyroxine titration, annual review",Thyroid antibodies positive. Reviewed by Dr. Fernandes.
+PT-1096,Pulsating headache lasting several hours,Migraine,"Triptans, antiemetic, trigger avoidance",Classic migraine presentation. Reviewed by Dr. Fernandes.
+PT-1097,"Palpitations, lightheadedness, breathlessness",Atrial Fibrillation,"Blood thinners, beta-blockers",ECG confirms atrial fibrillation. Reviewed by Dr. Iyer.
+PT-1098,"Dizziness, irregular heartbeat, fatigue",Atrial Fibrillation,"Anticoagulation, rate control medication",Stroke risk assessed; CHA2DS2-VASc score recorded. Reviewed by Dr. Banerjee.
+PT-1099,"Morning stiffness lasting over an hour, swollen joints",Rheumatoid Arthritis,"NSAIDs, physiotherapy, joint protection advice",DAS28 score recorded at baseline. Reviewed by Dr. Banerjee.
+PT-1100,"Prolonged cough over three weeks, appetite loss",Tuberculosis,Standard four-drug anti-TB regimen,Signs of TB; sputum test recommended. Reviewed by Dr. Fernandes.
+PT-1101,"Shooting leg pain, tingling in the foot",Herniated Disc,"Analgesia, physiotherapy, activity modification",MRI suggested to confirm disc herniation. Reviewed by Dr. Rao.
+PT-1102,Frequency with suprapubic discomfort,Urinary Tract Infection,"Short course antibiotics, increased fluids",Uncomplicated lower UTI. Reviewed by Dr. Mehta.
+PT-1103,"Fatigue, weight gain, cold intolerance",Hypothyroidism,"Levothyroxine titration, annual review",Thyroid antibodies positive. Reviewed by Dr. Rao.
+PT-1104,"Skin rash, itching, redness",Eczema,"Antihistamines, barrier cream, trigger avoidance",Skin barrier compromised; emollient use reinforced. Reviewed by Dr. Mehta.
+PT-1105,"Shortness of breath, audible wheeze",Asthma,"Bronchodilator therapy, asthma action plan",Asthma control questionnaire completed. Reviewed by Dr. Mehta.
+PT-1106,"Throbbing one-sided head pain, visual aura",Migraine,"Triptans, antiemetic, trigger avoidance",Headache diary advised to identify triggers. Reviewed by Dr. Nair.
+PT-1107,Lower back pain radiating down one leg,Herniated Disc,"Analgesia, physiotherapy, activity modification",MRI suggested to confirm disc herniation. Reviewed by Dr. Chawla.
+PT-1108,"Persistent cough, weight loss, night sweats",Tuberculosis,"Directly observed therapy, contact tracing",Signs of TB; sputum test recommended. Reviewed by Dr. Nair.
+PT-1109,"Fever, rapid breathing, fatigue",Pneumonia,"Amoxicillin, hydration, review in 48 hours",CURB-65 score low; managed in community. Reviewed by Dr. Fernandes.
+PT-1110,"Blocked nose, postnasal drip",Allergic Rhinitis,"Intranasal corticosteroid, saline rinse",Likely pollen trigger. Reviewed by Dr. Nair.
+PT-1111,"Painful swollen knuckles, fatigue",Rheumatoid Arthritis,"Methotrexate, folic acid, rheumatology follow-up",Rheumatoid factor positive. Reviewed by Dr. Rao.
+PT-1112,"Excessive thirst, blurred vision, weight loss",Diabetes Mellitus,"Insulin therapy, diet control",Referred to diabetes education programme. Reviewed by Dr. Fernandes.
+PT-1113,Frequency with suprapubic discomfort,Urinary Tract Infection,"Nitrofurantoin, hydration advice",Culture sent before starting antibiotics. Reviewed by Dr. Rao.
+PT-1114,"Night-time cough, wheeze after exercise",Asthma,"Preventer inhaler, spacer, technique review",Asthma control questionnaire completed. Reviewed by Dr. Kapoor.
+PT-1115,"Recurrent itchy rash, worse at night",Eczema,"Antihistamines, barrier cream, trigger avoidance",Skin barrier compromised; emollient use reinforced. Reviewed by Dr. Chawla.
+PT-1116,"Headache, dizziness, blurred vision",Hypertension,"Amlodipine, lifestyle modification",Ambulatory monitoring arranged. Reviewed by Dr. Iyer.
+PT-1117,Stiff joints easing after movement,Osteoarthritis,"Analgesia, weight management, physiotherapy",Conservative management appropriate. Reviewed by Dr. Fernandes.
+PT-1118,"Burning on urination, frequency, urgency",Urinary Tract Infection,"Short course antibiotics, increased fluids",Dipstick positive for nitrites and leucocytes. Reviewed by Dr. Mehta.
+PT-1119,"Shooting leg pain, tingling in the foot",Herniated Disc,"Physical therapy, pain management",No red flag neurology; conservative management. Reviewed by Dr. Fernandes.
+PT-1120,"Back pain worsened by sitting, leg weakness",Herniated Disc,"Neuropathic pain relief, core strengthening",MRI suggested to confirm disc herniation. Reviewed by Dr. Iyer.
+PT-1121,"Dizziness, irregular heartbeat, fatigue",Atrial Fibrillation,"Warfarin, metoprolol, cardiology follow-up",Irregular heartbeat detected; cardiology referral made. Reviewed by Dr. Banerjee.
+PT-1122,Inflamed skin on elbows and knees,Eczema,"Antihistamines, barrier cream, trigger avoidance",Skin barrier compromised; emollient use reinforced. Reviewed by Dr. Rao.
+PT-1123,"Prolonged cough over three weeks, appetite loss",Tuberculosis,Standard four-drug anti-TB regimen,Signs of TB; sputum test recommended. Reviewed by Dr. Mehta.
+PT-1124,"Persistent sadness, low energy, poor appetite",Depression,"Talking therapy referral, regular review",Review arranged in two weeks. Reviewed by Dr. Nair.
+PT-1125,"Night-time cough, wheeze after exercise",Asthma,"Bronchodilator therapy, asthma action plan",Peak flow reduced; inhaler technique reviewed. Reviewed by Dr. Fernandes.
+PT-1126,"Recurrent itchy rash, worse at night",Eczema,"Antihistamines, barrier cream, trigger avoidance",No signs of secondary bacterial infection. Reviewed by Dr. Chawla.
+PT-1127,"Dizziness, irregular heartbeat, fatigue",Atrial Fibrillation,"Anticoagulation, rate control medication",Irregular heartbeat detected; cardiology referral made. Reviewed by Dr. Banerjee.
+PT-1128,"Persistent cough, weight loss, night sweats",Tuberculosis,"Directly observed therapy, contact tracing",Notified to public health; contacts to be screened. Reviewed by Dr. Kapoor.
+PT-1129,Recurrent cough worse in cold air,Asthma,"Preventer inhaler, spacer, technique review",Trigger appears to be cold weather. Reviewed by Dr. Rao.
+PT-1130,"Night sweats, fatigue, low-grade fever",Tuberculosis,"Directly observed therapy, contact tracing",Chest X-ray shows upper lobe changes. Reviewed by Dr. Chawla.
+PT-1131,"Recurrent itchy rash, worse at night",Eczema,"Antihistamines, barrier cream, trigger avoidance",Patient has recurring skin rash; allergy test suggested. Reviewed by Dr. Fernandes.
+PT-1132,"Chronic cough with blood, fever",Tuberculosis,"Directly observed therapy, contact tracing",Signs of TB; sputum test recommended. Reviewed by Dr. Chawla.
+PT-1133,Frequency with suprapubic discomfort,Urinary Tract Infection,"Nitrofurantoin, hydration advice",Culture sent before starting antibiotics. Reviewed by Dr. Fernandes.
+PT-1134,"Pressure behind the sternum, relieved by rest",Angina,"Antianginal therapy, statin, smoking cessation",Advised urgent review if pain occurs at rest. Reviewed by Dr. Fernandes.
+PT-1135,Pulsating headache lasting several hours,Migraine,"Triptans, antiemetic, trigger avoidance",Headache diary advised to identify triggers. Reviewed by Dr. Nair.
+PT-1136,Pulsating headache lasting several hours,Migraine,"Prophylactic propranolol, hydration",Headache diary advised to identify triggers. Reviewed by Dr. Banerjee.
+PT-1137,"Itchy palate, repeated sneezing outdoors",Allergic Rhinitis,"Loratadine, allergen avoidance",Likely pollen trigger. Reviewed by Dr. Mehta.
+PT-1138,"Irregular pulse, reduced exercise tolerance",Atrial Fibrillation,"Anticoagulation, rate control medication",Irregular heartbeat detected; cardiology referral made. Reviewed by Dr. Fernandes.
+PT-1139,"Wheezing, breathlessness, chest tightness",Asthma,"Bronchodilator therapy, asthma action plan",Trigger appears to be cold weather. Reviewed by Dr. Banerjee.
+PT-1140,"Lower abdominal discomfort, irregular stools",Irritable Bowel Syndrome,"Low FODMAP diet, fibre supplementation",Coeliac screen negative. Reviewed by Dr. Banerjee.
+PT-1141,"Wheezing, breathlessness, chest tightness",Asthma,"Preventer inhaler, spacer, technique review",Asthma control questionnaire completed. Reviewed by Dr. Nair.
+PT-1142,"Chronic cough with blood, fever",Tuberculosis,"Directly observed therapy, contact tracing",Signs of TB; sputum test recommended. Reviewed by Dr. Chawla.
+PT-1143,"Low mood, loss of interest, poor sleep",Depression,"Talking therapy referral, regular review",Referred for cognitive behavioural therapy. Reviewed by Dr. Fernandes.
+PT-1144,"Fatigue, pallor, shortness of breath",Anemia,"Ferrous sulphate, vitamin C with doses",Ferritin low; iron deficiency confirmed. Reviewed by Dr. Fernandes.
+PT-1145,"Low mood, loss of interest, poor sleep",Depression,"Structured exercise, counselling, follow-up",Risk assessed; no immediate safety concerns. Reviewed by Dr. Banerjee.
+PT-1146,"Increased appetite, slow-healing wounds",Diabetes Mellitus,"Glucose monitoring, lifestyle modification",Blood sugar levels elevated; initiate monitoring. Reviewed by Dr. Nair.
+PT-1147,"High temperature, body aches, chills",Influenza,"Symptomatic care, paracetamol, fluids",Patient shows signs of seasonal flu. Reviewed by Dr. Nair.
+PT-1148,"Constipation, sluggishness, puffy face",Hypothyroidism,"Thyroid hormone replacement, periodic TSH checks",Symptoms improving on current dose. Reviewed by Dr. Iyer.
+PT-1149,Burning chest pain after meals,Gastroesophageal Reflux,"Proton pump inhibitor, dietary advice",Advised to avoid caffeine and spicy food. Reviewed by Dr. Mehta.
+PT-1150,"Itchy palate, repeated sneezing outdoors",Allergic Rhinitis,"Intranasal corticosteroid, saline rinse",Likely pollen trigger. Reviewed by Dr. Fernandes.
+PT-1151,"Fatigue, elevated readings at home",Hypertension,"Amlodipine, lifestyle modification",Cardiovascular risk score calculated. Reviewed by Dr. Nair.
+PT-1152,"Headache with vomiting, sound sensitivity",Migraine,"Prophylactic propranolol, hydration",Headache diary advised to identify triggers. Reviewed by Dr. Banerjee.
+PT-1153,"Aching hips after walking, reduced range",Osteoarthritis,"Analgesia, weight management, physiotherapy",Weight reduction discussed. Reviewed by Dr. Nair.
+PT-1154,"Lower abdominal pain, cloudy urine",Urinary Tract Infection,"Trimethoprim, urine culture sent",Uncomplicated lower UTI. Reviewed by Dr. Fernandes.
+PT-1155,"Headache, dizziness, blurred vision",Hypertension,"ACE inhibitor, salt reduction",Cardiovascular risk score calculated. Reviewed by Dr. Rao.
+PT-1156,"Abdominal pain, bloating, diarrhea",Irritable Bowel Syndrome,"Mebeverine, stress management, dietary review",Red flag symptoms absent. Reviewed by Dr. Mehta.
+PT-1157,"Reduced exercise tolerance, pale conjunctiva",Anemia,"Ferrous sulphate, vitamin C with doses",Dietary iron intake discussed. Reviewed by Dr. Chawla.
+PT-1158,"Productive cough, fever, chest pain",Pneumonia,"Antibiotics, rest, fluids",Chest X-ray confirms consolidation. Reviewed by Dr. Chawla.
+PT-1159,"Low mood, loss of interest, poor sleep",Depression,"Structured exercise, counselling, follow-up",Referred for cognitive behavioural therapy. Reviewed by Dr. Rao.
+PT-1160,"Sudden fever, dry cough, exhaustion",Influenza,"Oseltamivir, bed rest, hydration",Symptoms consistent with influenza A. Reviewed by Dr. Chawla.
+PT-1161,Often asymptomatic; found on routine check,Hypertension,"Diuretic therapy, home BP monitoring",Cardiovascular risk score calculated. Reviewed by Dr. Iyer.
+PT-1162,"Breathlessness, high fever, green sputum",Pneumonia,"Antibiotics, rest, fluids",Safety netting advice given. Reviewed by Dr. Kapoor.
+PT-1163,Lower back pain radiating down one leg,Herniated Disc,"Analgesia, physiotherapy, activity modification",No red flag neurology; conservative management. Reviewed by Dr. Iyer.
+PT-1164,"Excessive thirst, blurred vision, weight loss",Diabetes Mellitus,"Metformin, dietary counselling, exercise plan",Annual retinal and foot screening arranged. Reviewed by Dr. Mehta.
+PT-1165,"Abdominal pain, bloating, diarrhea",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",IBS symptoms; recommend low FODMAP diet. Reviewed by Dr. Kapoor.
+PT-1166,"Chest tightness on exertion, breathlessness",Angina,"GTN spray, beta-blocker, cardiac rehabilitation",Advised urgent review if pain occurs at rest. Reviewed by Dr. Iyer.
+PT-1167,Frequency with suprapubic discomfort,Urinary Tract Infection,"Nitrofurantoin, hydration advice",Advised to return if fever or flank pain develops. Reviewed by Dr. Mehta.
+PT-1168,"Morning stiffness lasting over an hour, swollen joints",Rheumatoid Arthritis,"Anti-inflammatory drugs, physiotherapy",Rheumatoid factor positive. Reviewed by Dr. Kapoor.
+PT-1169,Symmetrical joint pain in hands and wrists,Rheumatoid Arthritis,"Anti-inflammatory drugs, physiotherapy",Referred to rheumatology for DMARD initiation. Reviewed by Dr. Rao.
+PT-1170,"Headache with vomiting, sound sensitivity",Migraine,"Triptans, antiemetic, trigger avoidance",Consider prophylaxis if frequency increases. Reviewed by Dr. Kapoor.
+PT-1171,"Abdominal pain, bloating, diarrhea",Irritable Bowel Syndrome,"Low FODMAP diet, fibre supplementation",Symptoms fluctuate with stress; reassurance given. Reviewed by Dr. Banerjee.
+PT-1172,"Hopelessness, social withdrawal",Depression,"SSRI, psychological therapy",Referred for cognitive behavioural therapy. Reviewed by Dr. Fernandes.
+PT-1173,"Joint pain worse with activity, stiffness",Osteoarthritis,"Joint protection advice, strengthening programme",Conservative management appropriate. Reviewed by Dr. Banerjee.
+PT-1174,Tiredness despite adequate sleep,Hypothyroidism,Levothyroxine replacement,TSH elevated with low free T4. Reviewed by Dr. Kapoor.
+PT-1175,"Dizziness, irregular heartbeat, fatigue",Atrial Fibrillation,"Anticoagulation, rate control medication",ECG confirms atrial fibrillation. Reviewed by Dr. Iyer.
+PT-1176,"Chronic cough with blood, fever",Tuberculosis,Standard four-drug anti-TB regimen,Notified to public health; contacts to be screened. Reviewed by Dr. Chawla.
+PT-1177,"Weakness, cold hands, brittle nails",Anemia,"Investigate underlying cause, iron replacement",Repeat full blood count in three months. Reviewed by Dr. Fernandes.
+PT-1178,Tiredness despite adequate sleep,Hypothyroidism,"Levothyroxine titration, annual review",Thyroid antibodies positive. Reviewed by Dr. Fernandes.
+PT-1179,"Nasal congestion, watery eyes, seasonal pattern",Allergic Rhinitis,"Intranasal corticosteroid, saline rinse",Nasal spray technique demonstrated. Reviewed by Dr. Chawla.
+PT-1180,"Knee pain on stairs, crepitus",Osteoarthritis,"Joint protection advice, strengthening programme",X-ray shows joint space narrowing. Reviewed by Dr. Chawla.
+PT-1181,"Difficulty concentrating, early waking",Depression,"Structured exercise, counselling, follow-up",Risk assessed; no immediate safety concerns. Reviewed by Dr. Rao.
+PT-1182,"Knee pain on stairs, crepitus",Osteoarthritis,"Joint protection advice, strengthening programme",Consider orthopaedic referral if function declines. Reviewed by Dr. Chawla.
+PT-1183,"Joint pain worse with activity, stiffness",Osteoarthritis,"Paracetamol, topical NSAIDs, exercise",Conservative management appropriate. Reviewed by Dr. Nair.
+PT-1184,"Tiredness, dizziness on standing",Anemia,"Investigate underlying cause, iron replacement",Ferritin low; iron deficiency confirmed. Reviewed by Dr. Rao.
+PT-1185,"Hopelessness, social withdrawal",Depression,"Talking therapy referral, regular review",Review arranged in two weeks. Reviewed by Dr. Mehta.
+PT-1186,"Night-time cough, sour taste in mouth",Gastroesophageal Reflux,"Antacids, elevation of bed head",No alarm features; endoscopy not indicated. Reviewed by Dr. Iyer.
+PT-1187,"Shortness of breath, audible wheeze",Asthma,"Inhaled corticosteroid, salbutamol reliever",Trigger appears to be cold weather. Reviewed by Dr. Rao.
+PT-1188,"Night sweats, fatigue, low-grade fever",Tuberculosis,"Directly observed therapy, contact tracing",Chest X-ray shows upper lobe changes. Reviewed by Dr. Fernandes.
+PT-1189,"Breathlessness, high fever, green sputum",Pneumonia,"Antibiotics, rest, fluids",Crackles heard at the right base. Reviewed by Dr. Chawla.
+PT-1190,"Difficulty concentrating, early waking",Depression,"Structured exercise, counselling, follow-up",Review arranged in two weeks. Reviewed by Dr. Mehta.
+PT-1191,"Polyuria, polydipsia, tiredness",Diabetes Mellitus,"Glucose monitoring, lifestyle modification",Referred to diabetes education programme. Reviewed by Dr. Fernandes.
+PT-1192,Often asymptomatic; found on routine check,Hypertension,"ACE inhibitor, salt reduction",Cardiovascular risk score calculated. Reviewed by Dr. Mehta.
+PT-1193,"Fever, cough, sore throat",Influenza,"Symptomatic care, paracetamol, fluids",Patient shows signs of seasonal flu. Reviewed by Dr. Fernandes.
+PT-1194,"Prolonged cough over three weeks, appetite loss",Tuberculosis,"Directly observed therapy, contact tracing",Signs of TB; sputum test recommended. Reviewed by Dr. Iyer.
+PT-1195,"Increased appetite, slow-healing wounds",Diabetes Mellitus,"Glucose monitoring, lifestyle modification",Blood sugar levels elevated; initiate monitoring. Reviewed by Dr. Kapoor.
+PT-1196,"Morning stiffness lasting over an hour, swollen joints",Rheumatoid Arthritis,"Anti-inflammatory drugs, physiotherapy",DAS28 score recorded at baseline. Reviewed by Dr. Chawla.
+PT-1197,Inflamed skin on elbows and knees,Eczema,"Topical corticosteroids, moisturizers",Patient has recurring skin rash; allergy test suggested. Reviewed by Dr. Rao.
+PT-1198,"Dry skin, hair thinning, low mood",Hypothyroidism,Levothyroxine replacement,Started on replacement; recheck in six weeks. Reviewed by Dr. Kapoor.
+PT-1199,"Productive cough, fever, chest pain",Pneumonia,"Antibiotics, rest, fluids",Safety netting advice given. Reviewed by Dr. Nair.
+PT-1200,"Low mood, loss of interest, poor sleep",Depression,"SSRI, psychological therapy",Risk assessed; no immediate safety concerns. Reviewed by Dr. Nair.
+PT-1201,Burning chest pain after meals,Gastroesophageal Reflux,"Antacids, elevation of bed head",Review in eight weeks. Reviewed by Dr. Rao.
+PT-1202,"Bloating relieved by defecation, urgency",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",Coeliac screen negative. Reviewed by Dr. Nair.
+PT-1203,"Increased appetite, slow-healing wounds",Diabetes Mellitus,"Metformin, dietary counselling, exercise plan",Annual retinal and foot screening arranged. Reviewed by Dr. Fernandes.
+PT-1204,"Polyuria, polydipsia, tiredness",Diabetes Mellitus,"Glucose monitoring, lifestyle modification",Referred to diabetes education programme. Reviewed by Dr. Nair.
+PT-1205,"Severe headache, nausea, light sensitivity",Migraine,"Prophylactic propranolol, hydration",Aura reported before onset. Reviewed by Dr. Chawla.
+PT-1206,"Frequent urination, thirst, fatigue",Diabetes Mellitus,"Metformin, dietary counselling, exercise plan",Annual retinal and foot screening arranged. Reviewed by Dr. Fernandes.
+PT-1207,"Exertional chest discomfort, jaw pain",Angina,"Antianginal therapy, statin, smoking cessation",Advised urgent review if pain occurs at rest. Reviewed by Dr. Mehta.
+PT-1208,"Difficulty concentrating, early waking",Depression,"SSRI, psychological therapy",PHQ-9 score in moderate range. Reviewed by Dr. Fernandes.
+PT-1209,"Fluttering chest sensation, weakness",Atrial Fibrillation,"Blood thinners, beta-blockers",Irregular heartbeat detected; cardiology referral made. Reviewed by Dr. Nair.
+PT-1210,"Aching hips after walking, reduced range",Osteoarthritis,"Analgesia, weight management, physiotherapy",Conservative management appropriate. Reviewed by Dr. Iyer.
+PT-1211,Inflamed skin on elbows and knees,Eczema,"Topical corticosteroids, moisturizers",Skin barrier compromised; emollient use reinforced. Reviewed by Dr. Nair.
+PT-1212,"Prolonged cough over three weeks, appetite loss",Tuberculosis,Antibiotics for 6-9 months,Chest X-ray shows upper lobe changes. Reviewed by Dr. Kapoor.
+PT-1213,"Fatigue, weight gain, cold intolerance",Hypothyroidism,Levothyroxine replacement,Symptoms improving on current dose. Reviewed by Dr. Nair.
+PT-1214,"Cramping, alternating constipation and diarrhea",Irritable Bowel Syndrome,"Low FODMAP diet, fibre supplementation",Symptoms fluctuate with stress; reassurance given. Reviewed by Dr. Rao.
+PT-1215,"Weakness, cold hands, brittle nails",Anemia,"Iron supplementation, dietary advice",Dietary iron intake discussed. Reviewed by Dr. Chawla.
+PT-1216,"Joint pain worse with activity, stiffness",Osteoarthritis,"Joint protection advice, strengthening programme",X-ray shows joint space narrowing. Reviewed by Dr. Chawla.
+PT-1217,"Lower abdominal discomfort, irregular stools",Irritable Bowel Syndrome,"Mebeverine, stress management, dietary review",Red flag symptoms absent. Reviewed by Dr. Kapoor.
+PT-1218,"Fatigue, weight gain, cold intolerance",Hypothyroidism,"Thyroid hormone replacement, periodic TSH checks",TSH elevated with low free T4. Reviewed by Dr. Rao.
+PT-1219,"Fever, rapid breathing, fatigue",Pneumonia,"Antibiotics, rest, fluids",Chest X-ray confirms consolidation. Reviewed by Dr. Nair.
+PT-1220,"Dry skin, hair thinning, low mood",Hypothyroidism,"Thyroid hormone replacement, periodic TSH checks",Thyroid antibodies positive. Reviewed by Dr. Rao.
+PT-1221,"Burning on urination, frequency, urgency",Urinary Tract Infection,"Trimethoprim, urine culture sent",Culture sent before starting antibiotics. Reviewed by Dr. Mehta.
+PT-1222,Frequency with suprapubic discomfort,Urinary Tract Infection,"Nitrofurantoin, hydration advice",Advised to return if fever or flank pain develops. Reviewed by Dr. Banerjee.
+PT-1223,"Wheezing, breathlessness, chest tightness",Asthma,"Inhaled corticosteroid, salbutamol reliever",Stepped up preventer therapy. Reviewed by Dr. Nair.
+PT-1224,"Painful urination, foul-smelling urine",Urinary Tract Infection,"Trimethoprim, urine culture sent",Culture sent before starting antibiotics. Reviewed by Dr. Banerjee.
+PT-1225,"Exertional chest discomfort, jaw pain",Angina,"Antianginal therapy, statin, smoking cessation",Stable angina; medical management started. Reviewed by Dr. Mehta.
+PT-1226,"Breathlessness, high fever, green sputum",Pneumonia,"Antibiotics, rest, fluids",Crackles heard at the right base. Reviewed by Dr. Chawla.
+PT-1227,"Frequent urination, thirst, fatigue",Diabetes Mellitus,"Glucose monitoring, lifestyle modification",HbA1c above target; treatment escalated. Reviewed by Dr. Iyer.
+PT-1228,"Fatigue, pallor, shortness of breath",Anemia,"Investigate underlying cause, iron replacement",Ferritin low; iron deficiency confirmed. Reviewed by Dr. Banerjee.
+PT-1229,"Fluttering chest sensation, weakness",Atrial Fibrillation,"Warfarin, metoprolol, cardiology follow-up",Started on anticoagulation; review in two weeks. Reviewed by Dr. Banerjee.
+PT-1230,"Skin rash, itching, redness",Eczema,"Topical corticosteroids, moisturizers",Patient has recurring skin rash; allergy test suggested. Reviewed by Dr. Nair.
+PT-1231,"Back pain worsened by sitting, leg weakness",Herniated Disc,"Physical therapy, pain management",Refer to spinal surgery if no improvement in six weeks. Reviewed by Dr. Rao.
+PT-1232,"Morning stiffness lasting over an hour, swollen joints",Rheumatoid Arthritis,"Anti-inflammatory drugs, physiotherapy",DAS28 score recorded at baseline. Reviewed by Dr. Rao.
+PT-1233,"Itchy palate, repeated sneezing outdoors",Allergic Rhinitis,"Antihistamine, nasal steroid spray",Symptoms follow a seasonal pattern. Reviewed by Dr. Nair.
+PT-1234,"Difficulty concentrating, early waking",Depression,"SSRI, psychological therapy",Risk assessed; no immediate safety concerns. Reviewed by Dr. Iyer.
+PT-1235,"Sneezing, runny nose, itchy eyes",Allergic Rhinitis,"Antihistamine, nasal steroid spray",Likely pollen trigger. Reviewed by Dr. Nair.
+PT-1236,"Dry skin, hair thinning, low mood",Hypothyroidism,"Levothyroxine titration, annual review",Started on replacement; recheck in six weeks. Reviewed by Dr. Nair.
+PT-1237,"Difficulty concentrating, early waking",Depression,"Talking therapy referral, regular review",Review arranged in two weeks. Reviewed by Dr. Rao.
+PT-1238,"Fluttering chest sensation, weakness",Atrial Fibrillation,"Anticoagulation, rate control medication",ECG confirms atrial fibrillation. Reviewed by Dr. Chawla.
+PT-1239,Discomfort worse lying flat,Gastroesophageal Reflux,"Proton pump inhibitor, dietary advice",Advised to avoid caffeine and spicy food. Reviewed by Dr. Chawla.
+PT-1240,"Increased appetite, slow-healing wounds",Diabetes Mellitus,"Metformin, dietary counselling, exercise plan",Blood sugar levels elevated; initiate monitoring. Reviewed by Dr. Kapoor.
+PT-1241,"Throbbing one-sided head pain, visual aura",Migraine,"Pain relief, rest in a dark room",Aura reported before onset. Reviewed by Dr. Chawla.
+PT-1242,"Night sweats, fatigue, low-grade fever",Tuberculosis,"Directly observed therapy, contact tracing",Notified to public health; contacts to be screened. Reviewed by Dr. Chawla.
+PT-1243,"Chest tightness on exertion, breathlessness",Angina,"GTN spray, beta-blocker, cardiac rehabilitation",Stress test scheduled. Reviewed by Dr. Chawla.
+PT-1244,"Heartburn, acid taste, regurgitation",Gastroesophageal Reflux,"Proton pump inhibitor, dietary advice",No alarm features; endoscopy not indicated. Reviewed by Dr. Banerjee.
+PT-1245,Often asymptomatic; found on routine check,Hypertension,"Amlodipine, lifestyle modification",Advised reduced salt intake and regular exercise. Reviewed by Dr. Nair.
+PT-1246,"Frequent urination, thirst, fatigue",Diabetes Mellitus,"Metformin, dietary counselling, exercise plan",Blood sugar levels elevated; initiate monitoring. Reviewed by Dr. Chawla.
+PT-1247,"Dry skin, hair thinning, low mood",Hypothyroidism,"Levothyroxine titration, annual review",Symptoms improving on current dose. Reviewed by Dr. Nair.
+PT-1248,"Shooting leg pain, tingling in the foot",Herniated Disc,"Neuropathic pain relief, core strengthening",No red flag neurology; conservative management. Reviewed by Dr. Nair.
+PT-1249,Inflamed skin on elbows and knees,Eczema,"Antihistamines, barrier cream, trigger avoidance",Patient has recurring skin rash; allergy test suggested. Reviewed by Dr. Nair.
+PT-1250,Lower back pain radiating down one leg,Herniated Disc,"Neuropathic pain relief, core strengthening",MRI suggested to confirm disc herniation. Reviewed by Dr. Rao.
+PT-1251,"Burning on urination, frequency, urgency",Urinary Tract Infection,"Trimethoprim, urine culture sent",Advised to return if fever or flank pain develops. Reviewed by Dr. Fernandes.
+PT-1252,"Bloating relieved by defecation, urgency",Irritable Bowel Syndrome,"Mebeverine, stress management, dietary review",Coeliac screen negative. Reviewed by Dr. Mehta.
+PT-1253,"Fluttering chest sensation, weakness",Atrial Fibrillation,"Blood thinners, beta-blockers",Stroke risk assessed; CHA2DS2-VASc score recorded. Reviewed by Dr. Nair.
+PT-1254,"Chest pain, shortness of breath",Angina,"Nitroglycerin, aspirin, lifestyle changes",Recommend further cardiovascular evaluation. Reviewed by Dr. Kapoor.
+PT-1255,"Night-time cough, sour taste in mouth",Gastroesophageal Reflux,"Omeprazole, weight loss, avoid late meals",Symptoms respond to PPI trial. Reviewed by Dr. Banerjee.
+PT-1256,"Frequent urination, thirst, fatigue",Diabetes Mellitus,"Glucose monitoring, lifestyle modification",Annual retinal and foot screening arranged. Reviewed by Dr. Rao.
+PT-1257,"Weakness, cold hands, brittle nails",Anemia,"Ferrous sulphate, vitamin C with doses",Haemoglobin below reference range. Reviewed by Dr. Chawla.
+PT-1258,"Night-time cough, wheeze after exercise",Asthma,"Preventer inhaler, spacer, technique review",Stepped up preventer therapy. Reviewed by Dr. Mehta.
+PT-1259,"Fever, cough, sore throat",Influenza,"Symptomatic care, paracetamol, fluids",Symptoms consistent with influenza A. Reviewed by Dr. Banerjee.
+PT-1260,"Pressure behind the sternum, relieved by rest",Angina,"GTN spray, beta-blocker, cardiac rehabilitation",Recommend further cardiovascular evaluation. Reviewed by Dr. Iyer.
+PT-1261,"Polyuria, polydipsia, tiredness",Diabetes Mellitus,"Metformin, dietary counselling, exercise plan",Annual retinal and foot screening arranged. Reviewed by Dr. Iyer.
+PT-1262,"Knee pain on stairs, crepitus",Osteoarthritis,"Joint protection advice, strengthening programme",Consider orthopaedic referral if function declines. Reviewed by Dr. Chawla.
+PT-1263,"Shortness of breath, audible wheeze",Asthma,"Inhaled corticosteroid, salbutamol reliever",Peak flow reduced; inhaler technique reviewed. Reviewed by Dr. Mehta.
+PT-1264,"Persistent sadness, low energy, poor appetite",Depression,"Structured exercise, counselling, follow-up",Risk assessed; no immediate safety concerns. Reviewed by Dr. Fernandes.
+PT-1265,"Painful swollen knuckles, fatigue",Rheumatoid Arthritis,"Methotrexate, folic acid, rheumatology follow-up",DAS28 score recorded at baseline. Reviewed by Dr. Chawla.
+PT-1266,"Fluttering chest sensation, weakness",Atrial Fibrillation,"Warfarin, metoprolol, cardiology follow-up",ECG confirms atrial fibrillation. Reviewed by Dr. Chawla.
+PT-1267,"Fever, cough, sore throat",Influenza,"Rest, fluids, antiviral medication",Symptoms consistent with influenza A. Reviewed by Dr. Mehta.
+PT-1268,"Fever, rapid breathing, fatigue",Pneumonia,"Antibiotics, rest, fluids",Crackles heard at the right base. Reviewed by Dr. Chawla.
+PT-1269,"Severe headache, nausea, light sensitivity",Migraine,"Pain relief, rest in a dark room",Headache diary advised to identify triggers. Reviewed by Dr. Banerjee.
+PT-1270,"Frequent urination, thirst, fatigue",Diabetes Mellitus,"Metformin, dietary counselling, exercise plan",Blood sugar levels elevated; initiate monitoring. Reviewed by Dr. Chawla.
+PT-1271,Burning chest pain after meals,Gastroesophageal Reflux,"Proton pump inhibitor, dietary advice",Advised to avoid caffeine and spicy food. Reviewed by Dr. Mehta.
+PT-1272,"Sudden fever, dry cough, exhaustion",Influenza,"Rest, fluids, antiviral medication",Advised isolation for five days. Reviewed by Dr. Nair.
+PT-1273,Lower back pain radiating down one leg,Herniated Disc,"Physical therapy, pain management",Straight leg raise positive on the right. Reviewed by Dr. Iyer.
+PT-1274,"Lower abdominal pain, cloudy urine",Urinary Tract Infection,"Short course antibiotics, increased fluids",Culture sent before starting antibiotics. Reviewed by Dr. Kapoor.
+PT-1275,"Skin rash, itching, redness",Eczema,"Emollients, short steroid course",Flare likely triggered by detergent change. Reviewed by Dr. Nair.
+PT-1276,"High temperature, body aches, chills",Influenza,"Oseltamivir, bed rest, hydration",Advised isolation for five days. Reviewed by Dr. Nair.
+PT-1277,"Cough with pleuritic pain, rigors",Pneumonia,"Antibiotics, rest, fluids",Chest X-ray confirms consolidation. Reviewed by Dr. Fernandes.
+PT-1278,Often asymptomatic; found on routine check,Hypertension,"ACE inhibitor, salt reduction",Ambulatory monitoring arranged. Reviewed by Dr. Mehta.
+PT-1279,"Lower abdominal discomfort, irregular stools",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",IBS symptoms; recommend low FODMAP diet. Reviewed by Dr. Kapoor.
+PT-1280,"Irregular pulse, reduced exercise tolerance",Atrial Fibrillation,"Anticoagulation, rate control medication",ECG confirms atrial fibrillation. Reviewed by Dr. Chawla.
+PT-1281,"Productive cough, fever, chest pain",Pneumonia,"Oral antibiotics, oxygen if saturations fall",CURB-65 score low; managed in community. Reviewed by Dr. Mehta.
+PT-1282,"Fluttering chest sensation, weakness",Atrial Fibrillation,"Anticoagulation, rate control medication",ECG confirms atrial fibrillation. Reviewed by Dr. Chawla.
+PT-1283,"Night-time cough, wheeze after exercise",Asthma,"Preventer inhaler, spacer, technique review",Asthma control questionnaire completed. Reviewed by Dr. Kapoor.
+PT-1284,"Breathlessness, high fever, green sputum",Pneumonia,"Amoxicillin, hydration, review in 48 hours",Chest X-ray confirms consolidation. Reviewed by Dr. Banerjee.
+PT-1285,"Irregular pulse, reduced exercise tolerance",Atrial Fibrillation,"Blood thinners, beta-blockers",Started on anticoagulation; review in two weeks. Reviewed by Dr. Banerjee.
+PT-1286,"Fever, rapid breathing, fatigue",Pneumonia,"Antibiotics, rest, fluids",CURB-65 score low; managed in community. Reviewed by Dr. Kapoor.
+PT-1287,"Reduced exercise tolerance, pale conjunctiva",Anemia,"Ferrous sulphate, vitamin C with doses",Haemoglobin below reference range. Reviewed by Dr. Kapoor.
+PT-1288,"Dizziness, irregular heartbeat, fatigue",Atrial Fibrillation,"Anticoagulation, rate control medication",Irregular heartbeat detected; cardiology referral made. Reviewed by Dr. Chawla.
+PT-1289,"Shooting leg pain, tingling in the foot",Herniated Disc,"Neuropathic pain relief, core strengthening",No red flag neurology; conservative management. Reviewed by Dr. Iyer.
+PT-1290,"Lower abdominal pain, cloudy urine",Urinary Tract Infection,"Trimethoprim, urine culture sent",Dipstick positive for nitrites and leucocytes. Reviewed by Dr. Kapoor.
+PT-1291,"Itchy palate, repeated sneezing outdoors",Allergic Rhinitis,"Antihistamine, nasal steroid spray",Likely pollen trigger. Reviewed by Dr. Nair.
+PT-1292,Lower back pain radiating down one leg,Herniated Disc,"Physical therapy, pain management",Refer to spinal surgery if no improvement in six weeks. Reviewed by Dr. Banerjee.
+PT-1293,"Severe headache, nausea, light sensitivity",Migraine,"Triptans, antiemetic, trigger avoidance",Consider prophylaxis if frequency increases. Reviewed by Dr. Kapoor.
+PT-1294,Lower back pain radiating down one leg,Herniated Disc,"Analgesia, physiotherapy, activity modification",MRI suggested to confirm disc herniation. Reviewed by Dr. Banerjee.
+PT-1295,"Fatigue, weight gain, cold intolerance",Hypothyroidism,Levothyroxine replacement,Started on replacement; recheck in six weeks. Reviewed by Dr. Nair.
+PT-1296,"Sudden fever, dry cough, exhaustion",Influenza,"Rest, fluids, antiviral medication",Patient shows signs of seasonal flu. Reviewed by Dr. Iyer.
+PT-1297,"Knee pain on stairs, crepitus",Osteoarthritis,"Joint protection advice, strengthening programme",X-ray shows joint space narrowing. Reviewed by Dr. Rao.
+PT-1298,Stiff joints easing after movement,Osteoarthritis,"Paracetamol, topical NSAIDs, exercise",Weight reduction discussed. Reviewed by Dr. Rao.
+PT-1299,Burning chest pain after meals,Gastroesophageal Reflux,"Omeprazole, weight loss, avoid late meals",Symptoms respond to PPI trial. Reviewed by Dr. Iyer.
+PT-1300,"Dry skin, hair thinning, low mood",Hypothyroidism,"Levothyroxine titration, annual review",Symptoms improving on current dose. Reviewed by Dr. Fernandes.
+PT-1301,"Sharp back pain, numbness in legs",Herniated Disc,"Neuropathic pain relief, core strengthening",MRI suggested to confirm disc herniation. Reviewed by Dr. Rao.
+PT-1302,"Chest pain, shortness of breath",Angina,"GTN spray, beta-blocker, cardiac rehabilitation",Stable angina; medical management started. Reviewed by Dr. Rao.
+PT-1303,"High temperature, body aches, chills",Influenza,"Rest, fluids, antiviral medication",Flu swab positive; monitor for secondary infection. Reviewed by Dr. Nair.
+PT-1304,"Skin rash, itching, redness",Eczema,"Antihistamines, barrier cream, trigger avoidance",Flare likely triggered by detergent change. Reviewed by Dr. Rao.
+PT-1305,Symmetrical joint pain in hands and wrists,Rheumatoid Arthritis,"NSAIDs, physiotherapy, joint protection advice",DAS28 score recorded at baseline. Reviewed by Dr. Nair.
+PT-1306,"Tiredness, dizziness on standing",Anemia,"Investigate underlying cause, iron replacement",Repeat full blood count in three months. Reviewed by Dr. Banerjee.
+PT-1307,"Headache, dizziness, blurred vision",Hypertension,"Amlodipine, lifestyle modification",Ambulatory monitoring arranged. Reviewed by Dr. Banerjee.
+PT-1308,"Sharp back pain, numbness in legs",Herniated Disc,"Neuropathic pain relief, core strengthening",MRI suggested to confirm disc herniation. Reviewed by Dr. Rao.
+PT-1309,"Weakness, cold hands, brittle nails",Anemia,"Iron supplementation, dietary advice",Dietary iron intake discussed. Reviewed by Dr. Fernandes.
+PT-1310,"Difficulty concentrating, early waking",Depression,"Structured exercise, counselling, follow-up",Review arranged in two weeks. Reviewed by Dr. Mehta.
+PT-1311,"Knee pain on stairs, crepitus",Osteoarthritis,"Joint protection advice, strengthening programme",Weight reduction discussed. Reviewed by Dr. Banerjee.
+PT-1312,"Lower abdominal pain, cloudy urine",Urinary Tract Infection,"Nitrofurantoin, hydration advice",Advised to return if fever or flank pain develops. Reviewed by Dr. Iyer.
+PT-1313,"Low mood, loss of interest, poor sleep",Depression,"Structured exercise, counselling, follow-up",Referred for cognitive behavioural therapy. Reviewed by Dr. Nair.
+PT-1314,"Back pain worsened by sitting, leg weakness",Herniated Disc,"Analgesia, physiotherapy, activity modification",No red flag neurology; conservative management. Reviewed by Dr. Iyer.
+PT-1315,"Persistent sadness, low energy, poor appetite",Depression,"Structured exercise, counselling, follow-up",PHQ-9 score in moderate range. Reviewed by Dr. Nair.
+PT-1316,Pulsating headache lasting several hours,Migraine,"Pain relief, rest in a dark room",Headache diary advised to identify triggers. Reviewed by Dr. Chawla.
+PT-1317,"Excessive thirst, blurred vision, weight loss",Diabetes Mellitus,"Glucose monitoring, lifestyle modification",Blood sugar levels elevated; initiate monitoring. Reviewed by Dr. Rao.
+PT-1318,"Shortness of breath, audible wheeze",Asthma,"Inhaled corticosteroid, salbutamol reliever",Stepped up preventer therapy. Reviewed by Dr. Fernandes.
+PT-1319,"Breathlessness, high fever, green sputum",Pneumonia,"Amoxicillin, hydration, review in 48 hours",CURB-65 score low; managed in community. Reviewed by Dr. Fernandes.
+PT-1320,Discomfort worse lying flat,Gastroesophageal Reflux,"Omeprazole, weight loss, avoid late meals",Review in eight weeks. Reviewed by Dr. Mehta.
+PT-1321,"Irregular pulse, reduced exercise tolerance",Atrial Fibrillation,"Warfarin, metoprolol, cardiology follow-up",Stroke risk assessed; CHA2DS2-VASc score recorded. Reviewed by Dr. Rao.
+PT-1322,Tiredness despite adequate sleep,Hypothyroidism,"Thyroid hormone replacement, periodic TSH checks",Started on replacement; recheck in six weeks. Reviewed by Dr. Banerjee.
+PT-1323,Often asymptomatic; found on routine check,Hypertension,"Diuretic therapy, home BP monitoring",Blood pressure consistently above target. Reviewed by Dr. Fernandes.
+PT-1324,"Morning stiffness lasting over an hour, swollen joints",Rheumatoid Arthritis,"Anti-inflammatory drugs, physiotherapy",Referred to rheumatology for DMARD initiation. Reviewed by Dr. Rao.
+PT-1325,Recurrent cough worse in cold air,Asthma,"Inhaled corticosteroid, salbutamol reliever",Asthma control questionnaire completed. Reviewed by Dr. Banerjee.
+PT-1326,"Headache, dizziness, blurred vision",Hypertension,"ACE inhibitor, salt reduction",Cardiovascular risk score calculated. Reviewed by Dr. Rao.
+PT-1327,Pulsating headache lasting several hours,Migraine,"Triptans, antiemetic, trigger avoidance",Classic migraine presentation. Reviewed by Dr. Nair.
+PT-1328,"Headache, dizziness, blurred vision",Hypertension,"Diuretic therapy, home BP monitoring",Blood pressure consistently above target. Reviewed by Dr. Fernandes.
+PT-1329,"Fever, cough, sore throat",Influenza,"Oseltamivir, bed rest, hydration",Advised isolation for five days. Reviewed by Dr. Nair.
+PT-1330,"Bloating relieved by defecation, urgency",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",Symptoms fluctuate with stress; reassurance given. Reviewed by Dr. Nair.
+PT-1331,"Sharp back pain, numbness in legs",Herniated Disc,"Neuropathic pain relief, core strengthening",Straight leg raise positive on the right. Reviewed by Dr. Mehta.
+PT-1332,"Itchy palate, repeated sneezing outdoors",Allergic Rhinitis,"Intranasal corticosteroid, saline rinse",Likely pollen trigger. Reviewed by Dr. Chawla.
+PT-1333,"Joint pain worse with activity, stiffness",Osteoarthritis,"Paracetamol, topical NSAIDs, exercise",Conservative management appropriate. Reviewed by Dr. Nair.
+PT-1334,"Joint pain worse with activity, stiffness",Osteoarthritis,"Analgesia, weight management, physiotherapy",X-ray shows joint space narrowing. Reviewed by Dr. Mehta.
+PT-1335,"Painful swollen knuckles, fatigue",Rheumatoid Arthritis,"Methotrexate, folic acid, rheumatology follow-up",Early stages of rheumatoid arthritis detected. Reviewed by Dr. Rao.
+PT-1336,"Lower abdominal discomfort, irregular stools",Irritable Bowel Syndrome,"Low FODMAP diet, fibre supplementation",Symptoms fluctuate with stress; reassurance given. Reviewed by Dr. Iyer.
+PT-1337,"Skin rash, itching, redness",Eczema,"Topical corticosteroids, moisturizers",Skin barrier compromised; emollient use reinforced. Reviewed by Dr. Fernandes.
+PT-1338,"Persistent cough, weight loss, night sweats",Tuberculosis,Standard four-drug anti-TB regimen,Signs of TB; sputum test recommended. Reviewed by Dr. Chawla.
+PT-1339,"Abdominal pain, bloating, diarrhea",Irritable Bowel Syndrome,"Mebeverine, stress management, dietary review",Coeliac screen negative. Reviewed by Dr. Iyer.
+PT-1340,"Tiredness, dizziness on standing",Anemia,"Investigate underlying cause, iron replacement",Ferritin low; iron deficiency confirmed. Reviewed by Dr. Banerjee.
+PT-1341,"Fatigue, pallor, shortness of breath",Anemia,"Iron supplementation, dietary advice",Ferritin low; iron deficiency confirmed. Reviewed by Dr. Kapoor.
+PT-1342,Pulsating headache lasting several hours,Migraine,"Prophylactic propranolol, hydration",Aura reported before onset. Reviewed by Dr. Fernandes.
+PT-1343,"Reduced exercise tolerance, pale conjunctiva",Anemia,"Ferrous sulphate, vitamin C with doses",Ferritin low; iron deficiency confirmed. Reviewed by Dr. Fernandes.
+PT-1344,"Morning stiffness lasting over an hour, swollen joints",Rheumatoid Arthritis,"NSAIDs, physiotherapy, joint protection advice",Referred to rheumatology for DMARD initiation. Reviewed by Dr. Rao.
+PT-1345,"Knee pain on stairs, crepitus",Osteoarthritis,"Paracetamol, topical NSAIDs, exercise",Consider orthopaedic referral if function declines. Reviewed by Dr. Nair.
+PT-1346,"Pressure behind the sternum, relieved by rest",Angina,"Antianginal therapy, statin, smoking cessation",Stress test scheduled. Reviewed by Dr. Iyer.
+PT-1347,"High temperature, body aches, chills",Influenza,"Oseltamivir, bed rest, hydration",Advised isolation for five days. Reviewed by Dr. Rao.
+PT-1348,"Morning stiffness lasting over an hour, swollen joints",Rheumatoid Arthritis,"Methotrexate, folic acid, rheumatology follow-up",Referred to rheumatology for DMARD initiation. Reviewed by Dr. Iyer.
+PT-1349,"Prolonged cough over three weeks, appetite loss",Tuberculosis,Standard four-drug anti-TB regimen,Chest X-ray shows upper lobe changes. Reviewed by Dr. Kapoor.
+PT-1350,"Fatigue, weight gain, cold intolerance",Hypothyroidism,"Thyroid hormone replacement, periodic TSH checks",Started on replacement; recheck in six weeks. Reviewed by Dr. Iyer.
+PT-1351,"Sharp back pain, numbness in legs",Herniated Disc,"Analgesia, physiotherapy, activity modification",MRI suggested to confirm disc herniation. Reviewed by Dr. Chawla.
+PT-1352,"Exertional chest discomfort, jaw pain",Angina,"GTN spray, beta-blocker, cardiac rehabilitation",Stress test scheduled. Reviewed by Dr. Mehta.
+PT-1353,"Painful urination, foul-smelling urine",Urinary Tract Infection,"Short course antibiotics, increased fluids",Dipstick positive for nitrites and leucocytes. Reviewed by Dr. Nair.
+PT-1354,"Night-time cough, sour taste in mouth",Gastroesophageal Reflux,"Antacids, elevation of bed head",Review in eight weeks. Reviewed by Dr. Chawla.
+PT-1355,"Throbbing one-sided head pain, visual aura",Migraine,"Triptans, antiemetic, trigger avoidance",Consider prophylaxis if frequency increases. Reviewed by Dr. Banerjee.
+PT-1356,"Persistent cough, weight loss, night sweats",Tuberculosis,Antibiotics for 6-9 months,Treatment adherence counselling provided. Reviewed by Dr. Banerjee.
+PT-1357,"Joint pain worse with activity, stiffness",Osteoarthritis,"Analgesia, weight management, physiotherapy",X-ray shows joint space narrowing. Reviewed by Dr. Fernandes.
+PT-1358,Frequency with suprapubic discomfort,Urinary Tract Infection,"Trimethoprim, urine culture sent",Culture sent before starting antibiotics. Reviewed by Dr. Mehta.
+PT-1359,"High temperature, body aches, chills",Influenza,"Rest, fluids, antiviral medication",Patient shows signs of seasonal flu. Reviewed by Dr. Nair.
+PT-1360,Stiff joints easing after movement,Osteoarthritis,"Joint protection advice, strengthening programme",X-ray shows joint space narrowing. Reviewed by Dr. Fernandes.
+PT-1361,"Dry scaly patches, intense itching",Eczema,"Topical corticosteroids, moisturizers",No signs of secondary bacterial infection. Reviewed by Dr. Banerjee.
+PT-1362,"Sore throat, congestion, muscle pain",Influenza,"Rest, fluids, antiviral medication",Advised isolation for five days. Reviewed by Dr. Iyer.
+PT-1363,"Polyuria, polydipsia, tiredness",Diabetes Mellitus,"Glucose monitoring, lifestyle modification",HbA1c above target; treatment escalated. Reviewed by Dr. Fernandes.
+PT-1364,Discomfort worse lying flat,Gastroesophageal Reflux,"Omeprazole, weight loss, avoid late meals",Review in eight weeks. Reviewed by Dr. Fernandes.
+PT-1365,"Blocked nose, postnasal drip",Allergic Rhinitis,"Antihistamine, nasal steroid spray",Consider allergy testing if poorly controlled. Reviewed by Dr. Nair.
+PT-1366,"Cramping, alternating constipation and diarrhea",Irritable Bowel Syndrome,"Mebeverine, stress management, dietary review",Red flag symptoms absent. Reviewed by Dr. Nair.
+PT-1367,"High temperature, body aches, chills",Influenza,"Rest, fluids, antiviral medication",Patient shows signs of seasonal flu. Reviewed by Dr. Rao.
+PT-1368,"Sudden fever, dry cough, exhaustion",Influenza,"Symptomatic care, paracetamol, fluids",Patient shows signs of seasonal flu. Reviewed by Dr. Fernandes.
+PT-1369,"Wheezing, breathlessness, chest tightness",Asthma,"Preventer inhaler, spacer, technique review",Trigger appears to be cold weather. Reviewed by Dr. Fernandes.
+PT-1370,Recurrent cough worse in cold air,Asthma,"Inhaled corticosteroid, salbutamol reliever",Trigger appears to be cold weather. Reviewed by Dr. Banerjee.
+PT-1371,"Excessive thirst, blurred vision, weight loss",Diabetes Mellitus,"Glucose monitoring, lifestyle modification",Blood sugar levels elevated; initiate monitoring. Reviewed by Dr. Chawla.
+PT-1372,Frequency with suprapubic discomfort,Urinary Tract Infection,"Trimethoprim, urine culture sent",Dipstick positive for nitrites and leucocytes. Reviewed by Dr. Mehta.
+PT-1373,"Fatigue, elevated readings at home",Hypertension,"ACE inhibitor, salt reduction",Advised reduced salt intake and regular exercise. Reviewed by Dr. Banerjee.
+PT-1374,"Painful urination, foul-smelling urine",Urinary Tract Infection,"Nitrofurantoin, hydration advice",Advised to return if fever or flank pain develops. Reviewed by Dr. Nair.
+PT-1375,"High temperature, body aches, chills",Influenza,"Oseltamivir, bed rest, hydration",Patient shows signs of seasonal flu. Reviewed by Dr. Nair.
+PT-1376,"Recurrent itchy rash, worse at night",Eczema,"Emollients, short steroid course",Skin barrier compromised; emollient use reinforced. Reviewed by Dr. Fernandes.
+PT-1377,"Joint pain, swelling, stiffness",Rheumatoid Arthritis,"Anti-inflammatory drugs, physiotherapy",DAS28 score recorded at baseline. Reviewed by Dr. Fernandes.
+PT-1378,Often asymptomatic; found on routine check,Hypertension,"ACE inhibitor, salt reduction",Blood pressure consistently above target. Reviewed by Dr. Iyer.
+PT-1379,"Fever, cough, sore throat",Influenza,"Oseltamivir, bed rest, hydration",Symptoms consistent with influenza A. Reviewed by Dr. Nair.
+PT-1380,Discomfort worse lying flat,Gastroesophageal Reflux,"Proton pump inhibitor, dietary advice",No alarm features; endoscopy not indicated. Reviewed by Dr. Nair.
+PT-1381,"Fatigue, weight gain, cold intolerance",Hypothyroidism,"Levothyroxine titration, annual review",Thyroid antibodies positive. Reviewed by Dr. Banerjee.
+PT-1382,Burning chest pain after meals,Gastroesophageal Reflux,"Proton pump inhibitor, dietary advice",Advised to avoid caffeine and spicy food. Reviewed by Dr. Banerjee.
+PT-1383,"Joint pain, swelling, stiffness",Rheumatoid Arthritis,"Methotrexate, folic acid, rheumatology follow-up",Rheumatoid factor positive. Reviewed by Dr. Banerjee.
+PT-1384,"Chest pain, shortness of breath",Angina,"Nitroglycerin, aspirin, lifestyle changes",Recommend further cardiovascular evaluation. Reviewed by Dr. Chawla.
+PT-1385,"Hopelessness, social withdrawal",Depression,"SSRI, psychological therapy",Risk assessed; no immediate safety concerns. Reviewed by Dr. Chawla.
+PT-1386,"Irregular pulse, reduced exercise tolerance",Atrial Fibrillation,"Warfarin, metoprolol, cardiology follow-up",ECG confirms atrial fibrillation. Reviewed by Dr. Rao.
+PT-1387,"High temperature, body aches, chills",Influenza,"Symptomatic care, paracetamol, fluids",Symptoms consistent with influenza A. Reviewed by Dr. Rao.
+PT-1388,"Exertional chest discomfort, jaw pain",Angina,"Nitroglycerin, aspirin, lifestyle changes",Recommend further cardiovascular evaluation. Reviewed by Dr. Mehta.
+PT-1389,"Low mood, loss of interest, poor sleep",Depression,"SSRI, psychological therapy",Review arranged in two weeks. Reviewed by Dr. Banerjee.
+PT-1390,"Difficulty concentrating, early waking",Depression,"SSRI, psychological therapy",Review arranged in two weeks. Reviewed by Dr. Nair.
+PT-1391,"Frequent urination, thirst, fatigue",Diabetes Mellitus,"Insulin therapy, diet control",Referred to diabetes education programme. Reviewed by Dr. Fernandes.
+PT-1392,"Night-time cough, wheeze after exercise",Asthma,"Bronchodilator therapy, asthma action plan",Peak flow reduced; inhaler technique reviewed. Reviewed by Dr. Fernandes.
+PT-1393,"Fluttering chest sensation, weakness",Atrial Fibrillation,"Warfarin, metoprolol, cardiology follow-up",Irregular heartbeat detected; cardiology referral made. Reviewed by Dr. Banerjee.
+PT-1394,"Painful urination, foul-smelling urine",Urinary Tract Infection,"Trimethoprim, urine culture sent",Dipstick positive for nitrites and leucocytes. Reviewed by Dr. Chawla.
+PT-1395,"Cough with pleuritic pain, rigors",Pneumonia,"Antibiotics, rest, fluids",CURB-65 score low; managed in community. Reviewed by Dr. Mehta.
+PT-1396,"Painful urination, foul-smelling urine",Urinary Tract Infection,"Short course antibiotics, increased fluids",Culture sent before starting antibiotics. Reviewed by Dr. Banerjee.
+PT-1397,"Exertional chest discomfort, jaw pain",Angina,"GTN spray, beta-blocker, cardiac rehabilitation",Stable angina; medical management started. Reviewed by Dr. Mehta.
+PT-1398,"Palpitations, lightheadedness, breathlessness",Atrial Fibrillation,"Anticoagulation, rate control medication",Stroke risk assessed; CHA2DS2-VASc score recorded. Reviewed by Dr. Mehta.
+PT-1399,"Burning on urination, frequency, urgency",Urinary Tract Infection,"Short course antibiotics, increased fluids",Advised to return if fever or flank pain develops. Reviewed by Dr. Fernandes.
+PT-1400,"Painful swollen knuckles, fatigue",Rheumatoid Arthritis,"Methotrexate, folic acid, rheumatology follow-up",Early stages of rheumatoid arthritis detected. Reviewed by Dr. Banerjee.
+PT-1401,"Joint pain worse with activity, stiffness",Osteoarthritis,"Analgesia, weight management, physiotherapy",X-ray shows joint space narrowing. Reviewed by Dr. Fernandes.
+PT-1402,"Painful urination, foul-smelling urine",Urinary Tract Infection,"Nitrofurantoin, hydration advice",Dipstick positive for nitrites and leucocytes. Reviewed by Dr. Nair.
+PT-1403,"Pressure behind the sternum, relieved by rest",Angina,"GTN spray, beta-blocker, cardiac rehabilitation",Recommend further cardiovascular evaluation. Reviewed by Dr. Nair.
+PT-1404,"Morning stiffness lasting over an hour, swollen joints",Rheumatoid Arthritis,"Methotrexate, folic acid, rheumatology follow-up",Early stages of rheumatoid arthritis detected. Reviewed by Dr. Kapoor.
+PT-1405,"Itchy palate, repeated sneezing outdoors",Allergic Rhinitis,"Intranasal corticosteroid, saline rinse",Likely pollen trigger. Reviewed by Dr. Banerjee.
+PT-1406,"Knee pain on stairs, crepitus",Osteoarthritis,"Analgesia, weight management, physiotherapy",Conservative management appropriate. Reviewed by Dr. Iyer.
+PT-1407,"Itchy palate, repeated sneezing outdoors",Allergic Rhinitis,"Antihistamine, nasal steroid spray",Nasal spray technique demonstrated. Reviewed by Dr. Chawla.
+PT-1408,"Skin rash, itching, redness",Eczema,"Emollients, short steroid course",Patient has recurring skin rash; allergy test suggested. Reviewed by Dr. Kapoor.
+PT-1409,"Fluttering chest sensation, weakness",Atrial Fibrillation,"Blood thinners, beta-blockers",Stroke risk assessed; CHA2DS2-VASc score recorded. Reviewed by Dr. Fernandes.
+PT-1410,"Irregular pulse, reduced exercise tolerance",Atrial Fibrillation,"Warfarin, metoprolol, cardiology follow-up",ECG confirms atrial fibrillation. Reviewed by Dr. Nair.
+PT-1411,"Prolonged cough over three weeks, appetite loss",Tuberculosis,Antibiotics for 6-9 months,Signs of TB; sputum test recommended. Reviewed by Dr. Iyer.
+PT-1412,Lower back pain radiating down one leg,Herniated Disc,"Analgesia, physiotherapy, activity modification",Refer to spinal surgery if no improvement in six weeks. Reviewed by Dr. Kapoor.
+PT-1413,"Severe headache, nausea, light sensitivity",Migraine,"Pain relief, rest in a dark room",Classic migraine presentation. Reviewed by Dr. Kapoor.
+PT-1414,"Severe headache, nausea, light sensitivity",Migraine,"Pain relief, rest in a dark room",Aura reported before onset. Reviewed by Dr. Kapoor.
+PT-1415,"Low mood, loss of interest, poor sleep",Depression,"SSRI, psychological therapy",PHQ-9 score in moderate range. Reviewed by Dr. Mehta.
+PT-1416,"Throbbing one-sided head pain, visual aura",Migraine,"Pain relief, rest in a dark room",Consider prophylaxis if frequency increases. Reviewed by Dr. Fernandes.
+PT-1417,"Shooting leg pain, tingling in the foot",Herniated Disc,"Analgesia, physiotherapy, activity modification",No red flag neurology; conservative management. Reviewed by Dr. Iyer.
+PT-1418,"Cramping, alternating constipation and diarrhea",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",Coeliac screen negative. Reviewed by Dr. Rao.
+PT-1419,"Breathlessness, high fever, green sputum",Pneumonia,"Antibiotics, rest, fluids",Chest X-ray confirms consolidation. Reviewed by Dr. Banerjee.
+PT-1420,"Throbbing one-sided head pain, visual aura",Migraine,"Pain relief, rest in a dark room",Consider prophylaxis if frequency increases. Reviewed by Dr. Fernandes.
+PT-1421,"Chest tightness on exertion, breathlessness",Angina,"Antianginal therapy, statin, smoking cessation",Advised urgent review if pain occurs at rest. Reviewed by Dr. Iyer.
+PT-1422,Often asymptomatic; found on routine check,Hypertension,"Diuretic therapy, home BP monitoring",Cardiovascular risk score calculated. Reviewed by Dr. Iyer.
+PT-1423,"Sneezing, runny nose, itchy eyes",Allergic Rhinitis,"Loratadine, allergen avoidance",Consider allergy testing if poorly controlled. Reviewed by Dr. Fernandes.
+PT-1424,"Excessive thirst, blurred vision, weight loss",Diabetes Mellitus,"Insulin therapy, diet control",Annual retinal and foot screening arranged. Reviewed by Dr. Kapoor.
+PT-1425,"Painful urination, foul-smelling urine",Urinary Tract Infection,"Trimethoprim, urine culture sent",Uncomplicated lower UTI. Reviewed by Dr. Chawla.
+PT-1426,"Night sweats, fatigue, low-grade fever",Tuberculosis,Antibiotics for 6-9 months,Notified to public health; contacts to be screened. Reviewed by Dr. Kapoor.
+PT-1427,"Reduced exercise tolerance, pale conjunctiva",Anemia,"Iron supplementation, dietary advice",Ferritin low; iron deficiency confirmed. Reviewed by Dr. Fernandes.
+PT-1428,"Burning on urination, frequency, urgency",Urinary Tract Infection,"Short course antibiotics, increased fluids",Culture sent before starting antibiotics. Reviewed by Dr. Banerjee.
+PT-1429,"Increased appetite, slow-healing wounds",Diabetes Mellitus,"Insulin therapy, diet control",Blood sugar levels elevated; initiate monitoring. Reviewed by Dr. Nair.
+PT-1430,"Headache, dizziness, blurred vision",Hypertension,"Amlodipine, lifestyle modification",Ambulatory monitoring arranged. Reviewed by Dr. Iyer.
+PT-1431,"Aching hips after walking, reduced range",Osteoarthritis,"Joint protection advice, strengthening programme",X-ray shows joint space narrowing. Reviewed by Dr. Kapoor.
+PT-1432,"Cough with pleuritic pain, rigors",Pneumonia,"Amoxicillin, hydration, review in 48 hours",Safety netting advice given. Reviewed by Dr. Iyer.
+PT-1433,"Headache with vomiting, sound sensitivity",Migraine,"Pain relief, rest in a dark room",Headache diary advised to identify triggers. Reviewed by Dr. Chawla.
+PT-1434,"Back pain worsened by sitting, leg weakness",Herniated Disc,"Analgesia, physiotherapy, activity modification",No red flag neurology; conservative management. Reviewed by Dr. Chawla.
+PT-1435,"Polyuria, polydipsia, tiredness",Diabetes Mellitus,"Metformin, dietary counselling, exercise plan",HbA1c above target; treatment escalated. Reviewed by Dr. Iyer.
+PT-1436,Pulsating headache lasting several hours,Migraine,"Pain relief, rest in a dark room",Aura reported before onset. Reviewed by Dr. Kapoor.
+PT-1437,"Reduced exercise tolerance, pale conjunctiva",Anemia,"Iron supplementation, dietary advice",Haemoglobin below reference range. Reviewed by Dr. Fernandes.
+PT-1438,"Recurrent itchy rash, worse at night",Eczema,"Antihistamines, barrier cream, trigger avoidance",Flare likely triggered by detergent change. Reviewed by Dr. Iyer.
+PT-1439,"Bloating relieved by defecation, urgency",Irritable Bowel Syndrome,"Low FODMAP diet, fibre supplementation",Red flag symptoms absent. Reviewed by Dr. Mehta.
+PT-1440,"Irregular pulse, reduced exercise tolerance",Atrial Fibrillation,"Warfarin, metoprolol, cardiology follow-up",Started on anticoagulation; review in two weeks. Reviewed by Dr. Nair.
+PT-1441,"Fatigue, pallor, shortness of breath",Anemia,"Ferrous sulphate, vitamin C with doses",Haemoglobin below reference range. Reviewed by Dr. Mehta.
+PT-1442,Tiredness despite adequate sleep,Hypothyroidism,"Thyroid hormone replacement, periodic TSH checks",Symptoms improving on current dose. Reviewed by Dr. Chawla.
+PT-1443,"Difficulty concentrating, early waking",Depression,"SSRI, psychological therapy",Referred for cognitive behavioural therapy. Reviewed by Dr. Fernandes.
+PT-1444,"Sneezing, runny nose, itchy eyes",Allergic Rhinitis,"Intranasal corticosteroid, saline rinse",Consider allergy testing if poorly controlled. Reviewed by Dr. Mehta.
+PT-1445,"Night-time cough, sour taste in mouth",Gastroesophageal Reflux,"Proton pump inhibitor, dietary advice",No alarm features; endoscopy not indicated. Reviewed by Dr. Rao.
+PT-1446,"Burning on urination, frequency, urgency",Urinary Tract Infection,"Nitrofurantoin, hydration advice",Uncomplicated lower UTI. Reviewed by Dr. Chawla.
+PT-1447,"Bloating relieved by defecation, urgency",Irritable Bowel Syndrome,"Mebeverine, stress management, dietary review",Red flag symptoms absent. Reviewed by Dr. Iyer.
+PT-1448,"Difficulty concentrating, early waking",Depression,"SSRI, psychological therapy",Review arranged in two weeks. Reviewed by Dr. Chawla.
+PT-1449,"Itchy palate, repeated sneezing outdoors",Allergic Rhinitis,"Intranasal corticosteroid, saline rinse",Likely pollen trigger. Reviewed by Dr. Fernandes.
+PT-1450,"Heartburn, acid taste, regurgitation",Gastroesophageal Reflux,"Antacids, elevation of bed head",Review in eight weeks. Reviewed by Dr. Kapoor.
+PT-1451,"Fatigue, elevated readings at home",Hypertension,"Amlodipine, lifestyle modification",Blood pressure consistently above target. Reviewed by Dr. Iyer.
+PT-1452,"Weakness, cold hands, brittle nails",Anemia,"Ferrous sulphate, vitamin C with doses",Ferritin low; iron deficiency confirmed. Reviewed by Dr. Rao.
+PT-1453,"Sudden fever, dry cough, exhaustion",Influenza,"Rest, fluids, antiviral medication",Symptoms consistent with influenza A. Reviewed by Dr. Rao.
+PT-1454,"Weakness, cold hands, brittle nails",Anemia,"Iron supplementation, dietary advice",Haemoglobin below reference range. Reviewed by Dr. Iyer.
+PT-1455,"Knee pain on stairs, crepitus",Osteoarthritis,"Analgesia, weight management, physiotherapy",Weight reduction discussed. Reviewed by Dr. Fernandes.
+PT-1456,"Cough with pleuritic pain, rigors",Pneumonia,"Antibiotics, rest, fluids",CURB-65 score low; managed in community. Reviewed by Dr. Fernandes.
+PT-1457,Stiff joints easing after movement,Osteoarthritis,"Joint protection advice, strengthening programme",Conservative management appropriate. Reviewed by Dr. Banerjee.
+PT-1458,"Tiredness, dizziness on standing",Anemia,"Iron supplementation, dietary advice",Dietary iron intake discussed. Reviewed by Dr. Banerjee.
+PT-1459,"Fluttering chest sensation, weakness",Atrial Fibrillation,"Blood thinners, beta-blockers",Started on anticoagulation; review in two weeks. Reviewed by Dr. Fernandes.
+PT-1460,"Painful swollen knuckles, fatigue",Rheumatoid Arthritis,"Methotrexate, folic acid, rheumatology follow-up",Early stages of rheumatoid arthritis detected. Reviewed by Dr. Fernandes.
+PT-1461,Tiredness despite adequate sleep,Hypothyroidism,"Levothyroxine titration, annual review",Thyroid antibodies positive. Reviewed by Dr. Chawla.
+PT-1462,"Breathlessness, high fever, green sputum",Pneumonia,"Amoxicillin, hydration, review in 48 hours",Safety netting advice given. Reviewed by Dr. Kapoor.
+PT-1463,"Polyuria, polydipsia, tiredness",Diabetes Mellitus,"Insulin therapy, diet control",Annual retinal and foot screening arranged. Reviewed by Dr. Banerjee.
+PT-1464,"Headache, dizziness, blurred vision",Hypertension,"ACE inhibitor, salt reduction",Blood pressure consistently above target. Reviewed by Dr. Fernandes.
+PT-1465,"Prolonged cough over three weeks, appetite loss",Tuberculosis,"Directly observed therapy, contact tracing",Signs of TB; sputum test recommended. Reviewed by Dr. Nair.
+PT-1466,Frequency with suprapubic discomfort,Urinary Tract Infection,"Nitrofurantoin, hydration advice",Culture sent before starting antibiotics. Reviewed by Dr. Kapoor.
+PT-1467,"Burning on urination, frequency, urgency",Urinary Tract Infection,"Short course antibiotics, increased fluids",Dipstick positive for nitrites and leucocytes. Reviewed by Dr. Iyer.
+PT-1468,"Night-time cough, sour taste in mouth",Gastroesophageal Reflux,"Proton pump inhibitor, dietary advice",Review in eight weeks. Reviewed by Dr. Banerjee.
+PT-1469,"Fever, rapid breathing, fatigue",Pneumonia,"Amoxicillin, hydration, review in 48 hours",Crackles heard at the right base. Reviewed by Dr. Nair.
+PT-1470,"Lower abdominal discomfort, irregular stools",Irritable Bowel Syndrome,"Mebeverine, stress management, dietary review",IBS symptoms; recommend low FODMAP diet. Reviewed by Dr. Chawla.
+PT-1471,"Lower abdominal discomfort, irregular stools",Irritable Bowel Syndrome,"Low FODMAP diet, fibre supplementation",Symptoms fluctuate with stress; reassurance given. Reviewed by Dr. Nair.
+PT-1472,"Chest pain, shortness of breath",Angina,"GTN spray, beta-blocker, cardiac rehabilitation",Stress test scheduled. Reviewed by Dr. Banerjee.
+PT-1473,"Dizziness, irregular heartbeat, fatigue",Atrial Fibrillation,"Warfarin, metoprolol, cardiology follow-up",ECG confirms atrial fibrillation. Reviewed by Dr. Chawla.
+PT-1474,"Reduced exercise tolerance, pale conjunctiva",Anemia,"Investigate underlying cause, iron replacement",Repeat full blood count in three months. Reviewed by Dr. Rao.
+PT-1475,"Heartburn, acid taste, regurgitation",Gastroesophageal Reflux,"Omeprazole, weight loss, avoid late meals",Review in eight weeks. Reviewed by Dr. Banerjee.
+PT-1476,"Wheezing, breathlessness, chest tightness",Asthma,"Inhaled corticosteroid, salbutamol reliever",Peak flow reduced; inhaler technique reviewed. Reviewed by Dr. Nair.
+PT-1477,"Abdominal pain, bloating, diarrhea",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",Coeliac screen negative. Reviewed by Dr. Nair.
+PT-1478,Frequency with suprapubic discomfort,Urinary Tract Infection,"Trimethoprim, urine culture sent",Dipstick positive for nitrites and leucocytes. Reviewed by Dr. Iyer.
+PT-1479,"Sudden fever, dry cough, exhaustion",Influenza,"Rest, fluids, antiviral medication",Symptoms consistent with influenza A. Reviewed by Dr. Rao.
+PT-1480,"Excessive thirst, blurred vision, weight loss",Diabetes Mellitus,"Metformin, dietary counselling, exercise plan",HbA1c above target; treatment escalated. Reviewed by Dr. Kapoor.
+PT-1481,Lower back pain radiating down one leg,Herniated Disc,"Neuropathic pain relief, core strengthening",Straight leg raise positive on the right. Reviewed by Dr. Chawla.
+PT-1482,"Breathlessness, high fever, green sputum",Pneumonia,"Amoxicillin, hydration, review in 48 hours",Chest X-ray confirms consolidation. Reviewed by Dr. Kapoor.
+PT-1483,Burning chest pain after meals,Gastroesophageal Reflux,"Proton pump inhibitor, dietary advice",Symptoms respond to PPI trial. Reviewed by Dr. Iyer.
+PT-1484,"Weakness, cold hands, brittle nails",Anemia,"Iron supplementation, dietary advice",Repeat full blood count in three months. Reviewed by Dr. Iyer.
+PT-1485,Inflamed skin on elbows and knees,Eczema,"Topical corticosteroids, moisturizers",Patient has recurring skin rash; allergy test suggested. Reviewed by Dr. Banerjee.
+PT-1486,"Night-time cough, wheeze after exercise",Asthma,"Inhaled corticosteroid, salbutamol reliever",Asthma control questionnaire completed. Reviewed by Dr. Kapoor.
+PT-1487,"Prolonged cough over three weeks, appetite loss",Tuberculosis,Standard four-drug anti-TB regimen,Treatment adherence counselling provided. Reviewed by Dr. Nair.
+PT-1488,"Pressure behind the sternum, relieved by rest",Angina,"Nitroglycerin, aspirin, lifestyle changes",Stress test scheduled. Reviewed by Dr. Rao.
+PT-1489,"Fatigue, pallor, shortness of breath",Anemia,"Ferrous sulphate, vitamin C with doses",Ferritin low; iron deficiency confirmed. Reviewed by Dr. Nair.
+PT-1490,Often asymptomatic; found on routine check,Hypertension,"ACE inhibitor, salt reduction",Cardiovascular risk score calculated. Reviewed by Dr. Kapoor.
+PT-1491,"Abdominal pain, bloating, diarrhea",Irritable Bowel Syndrome,"Low FODMAP diet, fibre supplementation",Coeliac screen negative. Reviewed by Dr. Rao.
+PT-1492,"Severe headache, nausea, light sensitivity",Migraine,"Prophylactic propranolol, hydration",Consider prophylaxis if frequency increases. Reviewed by Dr. Nair.
+PT-1493,"Joint pain worse with activity, stiffness",Osteoarthritis,"Joint protection advice, strengthening programme",Consider orthopaedic referral if function declines. Reviewed by Dr. Chawla.
+PT-1494,"Joint pain worse with activity, stiffness",Osteoarthritis,"Paracetamol, topical NSAIDs, exercise",Weight reduction discussed. Reviewed by Dr. Iyer.
+PT-1495,"Painful swollen knuckles, fatigue",Rheumatoid Arthritis,"Methotrexate, folic acid, rheumatology follow-up",DAS28 score recorded at baseline. Reviewed by Dr. Mehta.
+PT-1496,"Weakness, cold hands, brittle nails",Anemia,"Ferrous sulphate, vitamin C with doses",Ferritin low; iron deficiency confirmed. Reviewed by Dr. Mehta.
+PT-1497,"Fatigue, weight gain, cold intolerance",Hypothyroidism,Levothyroxine replacement,TSH elevated with low free T4. Reviewed by Dr. Rao.
+PT-1498,"Frequent urination, thirst, fatigue",Diabetes Mellitus,"Insulin therapy, diet control",HbA1c above target; treatment escalated. Reviewed by Dr. Mehta.
+PT-1499,"Pressure behind the sternum, relieved by rest",Angina,"Antianginal therapy, statin, smoking cessation",Advised urgent review if pain occurs at rest. Reviewed by Dr. Chawla.
+PT-1500,"Exertional chest discomfort, jaw pain",Angina,"Nitroglycerin, aspirin, lifestyle changes",Stable angina; medical management started. Reviewed by Dr. Chawla.
+PT-1501,"Headache with vomiting, sound sensitivity",Migraine,"Triptans, antiemetic, trigger avoidance",Aura reported before onset. Reviewed by Dr. Mehta.
+PT-1502,"Sneezing, runny nose, itchy eyes",Allergic Rhinitis,"Loratadine, allergen avoidance",Symptoms follow a seasonal pattern. Reviewed by Dr. Nair.
+PT-1503,"Fatigue, weight gain, cold intolerance",Hypothyroidism,Levothyroxine replacement,Started on replacement; recheck in six weeks. Reviewed by Dr. Iyer.
+PT-1504,"Sneezing, runny nose, itchy eyes",Allergic Rhinitis,"Loratadine, allergen avoidance",Likely pollen trigger. Reviewed by Dr. Banerjee.
+PT-1505,"Persistent sadness, low energy, poor appetite",Depression,"SSRI, psychological therapy",Referred for cognitive behavioural therapy. Reviewed by Dr. Fernandes.
+PT-1506,"Headache, dizziness, blurred vision",Hypertension,"ACE inhibitor, salt reduction",Ambulatory monitoring arranged. Reviewed by Dr. Nair.
+PT-1507,"Sharp back pain, numbness in legs",Herniated Disc,"Neuropathic pain relief, core strengthening",No red flag neurology; conservative management. Reviewed by Dr. Chawla.
+PT-1508,"Severe headache, nausea, light sensitivity",Migraine,"Pain relief, rest in a dark room",Aura reported before onset. Reviewed by Dr. Nair.
+PT-1509,"Blocked nose, postnasal drip",Allergic Rhinitis,"Antihistamine, nasal steroid spray",Likely pollen trigger. Reviewed by Dr. Rao.
+PT-1510,"Sneezing, runny nose, itchy eyes",Allergic Rhinitis,"Loratadine, allergen avoidance",Likely pollen trigger. Reviewed by Dr. Rao.
+PT-1511,"Persistent cough, weight loss, night sweats",Tuberculosis,"Directly observed therapy, contact tracing",Signs of TB; sputum test recommended. Reviewed by Dr. Kapoor.
+PT-1512,"Shortness of breath, audible wheeze",Asthma,"Preventer inhaler, spacer, technique review",Asthma control questionnaire completed. Reviewed by Dr. Banerjee.
+PT-1513,"Dry scaly patches, intense itching",Eczema,"Emollients, short steroid course",Skin barrier compromised; emollient use reinforced. Reviewed by Dr. Iyer.
+PT-1514,"Difficulty concentrating, early waking",Depression,"Talking therapy referral, regular review",Referred for cognitive behavioural therapy. Reviewed by Dr. Rao.
+PT-1515,"Dry skin, hair thinning, low mood",Hypothyroidism,"Thyroid hormone replacement, periodic TSH checks",TSH elevated with low free T4. Reviewed by Dr. Iyer.
+PT-1516,"Skin rash, itching, redness",Eczema,"Antihistamines, barrier cream, trigger avoidance",Flare likely triggered by detergent change. Reviewed by Dr. Banerjee.
+PT-1517,"Tiredness, dizziness on standing",Anemia,"Iron supplementation, dietary advice",Ferritin low; iron deficiency confirmed. Reviewed by Dr. Banerjee.
+PT-1518,"Productive cough, fever, chest pain",Pneumonia,"Amoxicillin, hydration, review in 48 hours",Chest X-ray confirms consolidation. Reviewed by Dr. Banerjee.
+PT-1519,"Itchy palate, repeated sneezing outdoors",Allergic Rhinitis,"Loratadine, allergen avoidance",Symptoms follow a seasonal pattern. Reviewed by Dr. Fernandes.
+PT-1520,Symmetrical joint pain in hands and wrists,Rheumatoid Arthritis,"Anti-inflammatory drugs, physiotherapy",Referred to rheumatology for DMARD initiation. Reviewed by Dr. Banerjee.
+PT-1521,"Night-time cough, wheeze after exercise",Asthma,"Inhaled corticosteroid, salbutamol reliever",Peak flow reduced; inhaler technique reviewed. Reviewed by Dr. Mehta.
+PT-1522,"Dizziness, irregular heartbeat, fatigue",Atrial Fibrillation,"Warfarin, metoprolol, cardiology follow-up",Started on anticoagulation; review in two weeks. Reviewed by Dr. Mehta.
+PT-1523,"Occasional headache, nosebleeds",Hypertension,"Amlodipine, lifestyle modification",Advised reduced salt intake and regular exercise. Reviewed by Dr. Chawla.
+PT-1524,"Blocked nose, postnasal drip",Allergic Rhinitis,"Loratadine, allergen avoidance",Symptoms follow a seasonal pattern. Reviewed by Dr. Kapoor.
+PT-1525,Recurrent cough worse in cold air,Asthma,"Bronchodilator therapy, asthma action plan",Peak flow reduced; inhaler technique reviewed. Reviewed by Dr. Iyer.
+PT-1526,"Irregular pulse, reduced exercise tolerance",Atrial Fibrillation,"Anticoagulation, rate control medication",Started on anticoagulation; review in two weeks. Reviewed by Dr. Kapoor.
+PT-1527,"Night sweats, fatigue, low-grade fever",Tuberculosis,Standard four-drug anti-TB regimen,Treatment adherence counselling provided. Reviewed by Dr. Chawla.
+PT-1528,Frequency with suprapubic discomfort,Urinary Tract Infection,"Nitrofurantoin, hydration advice",Culture sent before starting antibiotics. Reviewed by Dr. Rao.
+PT-1529,Discomfort worse lying flat,Gastroesophageal Reflux,"Antacids, elevation of bed head",Review in eight weeks. Reviewed by Dr. Mehta.
+PT-1530,"Painful swollen knuckles, fatigue",Rheumatoid Arthritis,"NSAIDs, physiotherapy, joint protection advice",Referred to rheumatology for DMARD initiation. Reviewed by Dr. Chawla.
+PT-1531,"Severe headache, nausea, light sensitivity",Migraine,"Pain relief, rest in a dark room",Aura reported before onset. Reviewed by Dr. Rao.
+PT-1532,"Severe headache, nausea, light sensitivity",Migraine,"Triptans, antiemetic, trigger avoidance",Aura reported before onset. Reviewed by Dr. Mehta.
+PT-1533,"Knee pain on stairs, crepitus",Osteoarthritis,"Joint protection advice, strengthening programme",Conservative management appropriate. Reviewed by Dr. Chawla.
+PT-1534,"Reduced exercise tolerance, pale conjunctiva",Anemia,"Investigate underlying cause, iron replacement",Dietary iron intake discussed. Reviewed by Dr. Kapoor.
+PT-1535,"Exertional chest discomfort, jaw pain",Angina,"Antianginal therapy, statin, smoking cessation",Stress test scheduled. Reviewed by Dr. Chawla.
+PT-1536,"Morning stiffness lasting over an hour, swollen joints",Rheumatoid Arthritis,"Methotrexate, folic acid, rheumatology follow-up",Early stages of rheumatoid arthritis detected. Reviewed by Dr. Banerjee.
+PT-1537,"Bloating relieved by defecation, urgency",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",IBS symptoms; recommend low FODMAP diet. Reviewed by Dr. Banerjee.
+PT-1538,"Reduced exercise tolerance, pale conjunctiva",Anemia,"Investigate underlying cause, iron replacement",Repeat full blood count in three months. Reviewed by Dr. Banerjee.
+PT-1539,Symmetrical joint pain in hands and wrists,Rheumatoid Arthritis,"Methotrexate, folic acid, rheumatology follow-up",Referred to rheumatology for DMARD initiation. Reviewed by Dr. Kapoor.
+PT-1540,"Chest tightness on exertion, breathlessness",Angina,"Nitroglycerin, aspirin, lifestyle changes",Recommend further cardiovascular evaluation. Reviewed by Dr. Chawla.
+PT-1541,Discomfort worse lying flat,Gastroesophageal Reflux,"Proton pump inhibitor, dietary advice",Review in eight weeks. Reviewed by Dr. Nair.
+PT-1542,"Dry scaly patches, intense itching",Eczema,"Emollients, short steroid course",Patient has recurring skin rash; allergy test suggested. Reviewed by Dr. Nair.
+PT-1543,Symmetrical joint pain in hands and wrists,Rheumatoid Arthritis,"Methotrexate, folic acid, rheumatology follow-up",Rheumatoid factor positive. Reviewed by Dr. Nair.
+PT-1544,"Irregular pulse, reduced exercise tolerance",Atrial Fibrillation,"Anticoagulation, rate control medication",ECG confirms atrial fibrillation. Reviewed by Dr. Chawla.
+PT-1545,"Irregular pulse, reduced exercise tolerance",Atrial Fibrillation,"Blood thinners, beta-blockers",Irregular heartbeat detected; cardiology referral made. Reviewed by Dr. Chawla.
+PT-1546,"Night-time cough, wheeze after exercise",Asthma,"Preventer inhaler, spacer, technique review",Stepped up preventer therapy. Reviewed by Dr. Banerjee.
+PT-1547,"Lower abdominal discomfort, irregular stools",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",Symptoms fluctuate with stress; reassurance given. Reviewed by Dr. Rao.
+PT-1548,"Prolonged cough over three weeks, appetite loss",Tuberculosis,Antibiotics for 6-9 months,Chest X-ray shows upper lobe changes. Reviewed by Dr. Iyer.
+PT-1549,"Morning stiffness lasting over an hour, swollen joints",Rheumatoid Arthritis,"Methotrexate, folic acid, rheumatology follow-up",Early stages of rheumatoid arthritis detected. Reviewed by Dr. Nair.
+PT-1550,"Low mood, loss of interest, poor sleep",Depression,"SSRI, psychological therapy",Referred for cognitive behavioural therapy. Reviewed by Dr. Mehta.
+PT-1551,"High temperature, body aches, chills",Influenza,"Oseltamivir, bed rest, hydration",Symptoms consistent with influenza A. Reviewed by Dr. Kapoor.
+PT-1552,"Chest pain, shortness of breath",Angina,"GTN spray, beta-blocker, cardiac rehabilitation",Stable angina; medical management started. Reviewed by Dr. Kapoor.
+PT-1553,"Night-time cough, wheeze after exercise",Asthma,"Bronchodilator therapy, asthma action plan",Asthma control questionnaire completed. Reviewed by Dr. Banerjee.
+PT-1554,"Fever, rapid breathing, fatigue",Pneumonia,"Amoxicillin, hydration, review in 48 hours",Chest X-ray confirms consolidation. Reviewed by Dr. Mehta.
+PT-1555,"Frequent urination, thirst, fatigue",Diabetes Mellitus,"Insulin therapy, diet control",Referred to diabetes education programme. Reviewed by Dr. Fernandes.
+PT-1556,"High temperature, body aches, chills",Influenza,"Oseltamivir, bed rest, hydration",Symptoms consistent with influenza A. Reviewed by Dr. Chawla.
+PT-1557,"Cramping, alternating constipation and diarrhea",Irritable Bowel Syndrome,"Diet changes, antispasmodic medication",Coeliac screen negative. Reviewed by Dr. Kapoor.
+PT-1558,Inflamed skin on elbows and knees,Eczema,"Topical corticosteroids, moisturizers",Skin barrier compromised; emollient use reinforced. Reviewed by Dr. Rao.
+PT-1559,"Occasional headache, nosebleeds",Hypertension,"Amlodipine, lifestyle modification",Blood pressure consistently above target. Reviewed by Dr. Nair.
+PT-1560,"Itchy palate, repeated sneezing outdoors",Allergic Rhinitis,"Loratadine, allergen avoidance",Nasal spray technique demonstrated. Reviewed by Dr. Nair.
+PT-1561,"Shooting leg pain, tingling in the foot",Herniated Disc,"Neuropathic pain relief, core strengthening",MRI suggested to confirm disc herniation. Reviewed by Dr. Banerjee.
+PT-1562,"Night sweats, fatigue, low-grade fever",Tuberculosis,Antibiotics for 6-9 months,Signs of TB; sputum test recommended. Reviewed by Dr. Nair.
+PT-1563,"Sudden fever, dry cough, exhaustion",Influenza,"Oseltamivir, bed rest, hydration",Symptoms consistent with influenza A. Reviewed by Dr. Iyer.
+PT-1564,"Joint pain, swelling, stiffness",Rheumatoid Arthritis,"Methotrexate, folic acid, rheumatology follow-up",Early stages of rheumatoid arthritis detected. Reviewed by Dr. Fernandes.
+PT-1565,Burning chest pain after meals,Gastroesophageal Reflux,"Proton pump inhibitor, dietary advice",Review in eight weeks. Reviewed by Dr. Kapoor.
+PT-1566,"Fever, rapid breathing, fatigue",Pneumonia,"Antibiotics, rest, fluids",Crackles heard at the right base. Reviewed by Dr. Fernandes.
+PT-1567,"Sharp back pain, numbness in legs",Herniated Disc,"Analgesia, physiotherapy, activity modification",Refer to spinal surgery if no improvement in six weeks. Reviewed by Dr. Banerjee.
+PT-1568,"Blocked nose, postnasal drip",Allergic Rhinitis,"Antihistamine, nasal steroid spray",Consider allergy testing if poorly controlled. Reviewed by Dr. Iyer.
+PT-1569,"Constipation, sluggishness, puffy face",Hypothyroidism,"Thyroid hormone replacement, periodic TSH checks",TSH elevated with low free T4. Reviewed by Dr. Chawla.
+PT-1570,"Dry scaly patches, intense itching",Eczema,"Antihistamines, barrier cream, trigger avoidance",Patient has recurring skin rash; allergy test suggested. Reviewed by Dr. Mehta.
+PT-1571,"Occasional headache, nosebleeds",Hypertension,"ACE inhibitor, salt reduction",Blood pressure consistently above target. Reviewed by Dr. Fernandes.
+PT-1572,"Chest pain, shortness of breath",Angina,"Antianginal therapy, statin, smoking cessation",Stable angina; medical management started. Reviewed by Dr. Rao.
+PT-1573,"Abdominal pain, bloating, diarrhea",Irritable Bowel Syndrome,"Low FODMAP diet, fibre supplementation",IBS symptoms; recommend low FODMAP diet. Reviewed by Dr. Nair.
+PT-1574,Often asymptomatic; found on routine check,Hypertension,"Amlodipine, lifestyle modification",Cardiovascular risk score calculated. Reviewed by Dr. Kapoor.
+PT-1575,"Severe headache, nausea, light sensitivity",Migraine,"Prophylactic propranolol, hydration",Headache diary advised to identify triggers. Reviewed by Dr. Iyer.
+PT-1576,"Shooting leg pain, tingling in the foot",Herniated Disc,"Neuropathic pain relief, core strengthening",MRI suggested to confirm disc herniation. Reviewed by Dr. Nair.
+PT-1577,"Throbbing one-sided head pain, visual aura",Migraine,"Triptans, antiemetic, trigger avoidance",Consider prophylaxis if frequency increases. Reviewed by Dr. Fernandes.
+PT-1578,"Lower abdominal pain, cloudy urine",Urinary Tract Infection,"Trimethoprim, urine culture sent",Dipstick positive for nitrites and leucocytes. Reviewed by Dr. Rao.
+PT-1579,"Prolonged cough over three weeks, appetite loss",Tuberculosis,Antibiotics for 6-9 months,Treatment adherence counselling provided. Reviewed by Dr. Banerjee.
+PT-1580,"Constipation, sluggishness, puffy face",Hypothyroidism,Levothyroxine replacement,Started on replacement; recheck in six weeks. Reviewed by Dr. Mehta.
+PT-1581,"Chest tightness on exertion, breathlessness",Angina,"Nitroglycerin, aspirin, lifestyle changes",Recommend further cardiovascular evaluation. Reviewed by Dr. Kapoor.
+PT-1582,"Throbbing one-sided head pain, visual aura",Migraine,"Triptans, antiemetic, trigger avoidance",Classic migraine presentation. Reviewed by Dr. Mehta.
+PT-1583,Lower back pain radiating down one leg,Herniated Disc,"Physical therapy, pain management",Straight leg raise positive on the right. Reviewed by Dr. Chawla.
+PT-1584,"Fatigue, pallor, shortness of breath",Anemia,"Iron supplementation, dietary advice",Dietary iron intake discussed. Reviewed by Dr. Fernandes.
+PT-1585,"Fatigue, pallor, shortness of breath",Anemia,"Ferrous sulphate, vitamin C with doses",Haemoglobin below reference range. Reviewed by Dr. Mehta.
+PT-1586,"Cramping, alternating constipation and diarrhea",Irritable Bowel Syndrome,"Mebeverine, stress management, dietary review",Red flag symptoms absent. Reviewed by Dr. Nair.
+PT-1587,"Chronic cough with blood, fever",Tuberculosis,"Directly observed therapy, contact tracing",Chest X-ray shows upper lobe changes. Reviewed by Dr. Fernandes.
+PT-1588,"Heartburn, acid taste, regurgitation",Gastroesophageal Reflux,"Antacids, elevation of bed head",Advised to avoid caffeine and spicy food. Reviewed by Dr. Nair.
+PT-1589,"Skin rash, itching, redness",Eczema,"Emollients, short steroid course",Flare likely triggered by detergent change. Reviewed by Dr. Nair.
+PT-1590,"Cough with pleuritic pain, rigors",Pneumonia,"Oral antibiotics, oxygen if saturations fall",Safety netting advice given. Reviewed by Dr. Fernandes.
+PT-1591,"Increased appetite, slow-healing wounds",Diabetes Mellitus,"Metformin, dietary counselling, exercise plan",Blood sugar levels elevated; initiate monitoring. Reviewed by Dr. Chawla.
+PT-1592,"Blocked nose, postnasal drip",Allergic Rhinitis,"Intranasal corticosteroid, saline rinse",Symptoms follow a seasonal pattern. Reviewed by Dr. Fernandes.
+PT-1593,Burning chest pain after meals,Gastroesophageal Reflux,"Omeprazole, weight loss, avoid late meals",Symptoms respond to PPI trial. Reviewed by Dr. Iyer.
+PT-1594,"Painful urination, foul-smelling urine",Urinary Tract Infection,"Short course antibiotics, increased fluids",Advised to return if fever or flank pain develops. Reviewed by Dr. Banerjee.
+PT-1595,Burning chest pain after meals,Gastroesophageal Reflux,"Antacids, elevation of bed head",Symptoms respond to PPI trial. Reviewed by Dr. Chawla.
+PT-1596,"Fatigue, weight gain, cold intolerance",Hypothyroidism,Levothyroxine replacement,Symptoms improving on current dose. Reviewed by Dr. Fernandes.
+PT-1597,"Morning stiffness lasting over an hour, swollen joints",Rheumatoid Arthritis,"Anti-inflammatory drugs, physiotherapy",Rheumatoid factor positive. Reviewed by Dr. Kapoor.
+PT-1598,"Exertional chest discomfort, jaw pain",Angina,"Antianginal therapy, statin, smoking cessation",Advised urgent review if pain occurs at rest. Reviewed by Dr. Nair.
+PT-1599,Often asymptomatic; found on routine check,Hypertension,"Amlodipine, lifestyle modification",Ambulatory monitoring arranged. Reviewed by Dr. Banerjee.

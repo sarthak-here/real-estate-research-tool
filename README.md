@@ -72,17 +72,22 @@ Then ask something like *"What was the 30 year fixed mortgage rate, and on what 
 Three folders, one per job:
 
 ```
-ingestion/        scrape urls, split into chunks, embed into Chroma
-  pipeline.py
-retrieval/        answer questions against the index, with sources
-  prompts.py
-  qa.py
-app/              Streamlit UI
-  main.py
-
-config.py         shared settings and the LLM / vector store singletons
-notebooks/        LangChain building blocks, worked through separately
-resources/        screenshot, and the persisted vector store at runtime
+.
+├── ingestion/              scrape urls, split into chunks, embed into Chroma
+│   └── pipeline.py
+├── retrieval/              answer questions against the index, with sources
+│   ├── prompts.py
+│   └── qa.py
+├── app/                    Streamlit UI
+│   └── main.py
+├── notebooks/              LangChain building blocks, worked through separately
+│   ├── 1_document_loader.ipynb
+│   ├── 2_text_splitter.ipynb
+│   └── generate_patient_records.py
+├── resources/              screenshot, and the persisted vector store at runtime
+├── config.py               shared settings, LLM and vector store singletons
+├── requirements.txt
+└── .env.example
 ```
 
 `config.py` sits outside the three because both ingestion and retrieval need the

@@ -5,3 +5,4 @@ __pycache__/
 resources/vectorstore/
 .venv/
 venv/
+resources/portfolio-*.png

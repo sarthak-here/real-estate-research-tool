@@ -93,10 +93,3 @@ The notebooks cover the two pieces the pipeline is built on, document loading
 and text splitting, in isolation. `notebooks/generate_patient_records.py`
 regenerates the 600-record sample dataset they use; it is seeded, so the output
 is reproducible.
-
-## Notes
-
-Built while working through the Codebasics LangChain course, which supplied the
-project brief. The implementation here is my own.
-
-Licensed under the MIT License.
